@@ -258,7 +258,7 @@ export async function POST(request: NextRequest) {
     let itineraryText: string;
 
     // Check if we have valid Gemini API key
-    const hasValidGeminiKey = process.env.GEMINI_API_KEY && process.env.GEMINI_API_KEY.trim() !== '';
+    const hasValidGeminiKey = process.env.GEMINI_API_KEY && process.env.GEMINI_API_KEY.trim() !== '' && process.env.GEMINI_API_KEY !== 'your_new_api_key_here';
     
     if (!hasValidGeminiKey) {
       return NextResponse.json(

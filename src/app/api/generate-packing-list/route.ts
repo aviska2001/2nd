@@ -53,7 +53,7 @@ interface ApiResponse {
 
 // Set API Key for Gemini
 function getApiKey(): string {
-  return process.env.GEMINI_API_KEY || "AIzaSyDCNYiFj5GFMOwBSvf50O5GEsnW400CiRA";
+  return process.env.GEMINI_API_KEY || "";
 }
 
 // Set Prompt for Packing List
@@ -211,7 +211,7 @@ function validateJsonWithModel(jsonData: unknown): [PackingResponse | null, Vali
 async function generateResponseWithGemini(prompt: string): Promise<string | { error: string }> {
   const apiKey = getApiKey();
   
-  if (!apiKey || apiKey === "your_gemini_api_key_here") {
+  if (!apiKey || apiKey === "your_gemini_api_key_here" || apiKey === "your_new_api_key_here" || apiKey.trim() === "") {
     console.log('Using fallback sample data due to missing API key');
     return getSamplePackingListResponse();
   }
