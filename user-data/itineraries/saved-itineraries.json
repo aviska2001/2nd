@@ -8219,5 +8219,145 @@
     ],
     "createdAt": "2025-08-31T08:30:33.670Z",
     "updatedAt": "2025-08-31T08:30:33.670Z"
+  },
+  {
+    "id": "35",
+    "title": "1-Day sri lanka Solo Historical Sites Budget Itinerary",
+    "destination": "sri lanka",
+    "days": "1",
+    "budget": "Budget-friendly ($50-100/day)",
+    "travelCompanions": "solo traveler",
+    "interests": "Historical Sites",
+    "itinerary": [
+      {
+        "day": "Day 1 - Anuradhapura Ancient City",
+        "location": "Anuradhapura Ancient City",
+        "google_map_url": "https://www.google.com/maps/search/Anuradhapura+Ancient+City+Sri+Lanka",
+        "morning": [
+          {
+            "activity": "Visit Sri Maha Bodhi",
+            "details": "Start your day at the sacred Sri Maha Bodhi, a fig tree grown from a sapling of the Bodhi Tree in India under which Buddha attained enlightenment. Entry is free; donations welcome. Allow 2 hours."
+          },
+          {
+            "activity": "Ruwanwelisaya Stupa",
+            "details": "Explore the Ruwanwelisaya Stupa, a massive white dagoba showcasing impressive ancient architecture and Buddhist devotion. Entry fee is around LKR 500. Take 1.5 hours to appreciate its grandeur."
+          }
+        ],
+        "afternoon": [
+          {
+            "activity": "Jetavanaramaya Stupa",
+            "details": "Discover Jetavanaramaya Stupa, one of the tallest ancient structures in the world. Marvel at the sheer scale and engineering prowess. Entry fee approx. LKR 500. Spend 1.5 hours here."
+          },
+          {
+            "activity": "Abhayagiri Monastery",
+            "details": "Wander through the ruins of Abhayagiri Monastery, a vast monastic complex with numerous buildings and stupas. Imagine the life of monks from centuries ago. Entry Fee approx. LKR 500, allocate 2 hours."
+          }
+        ],
+        "evening": [
+          {
+            "activity": "Isurumuniya Rock Temple",
+            "details": "Visit Isurumuniya, a rock temple famous for its rock carvings and serene setting. Enjoy the sunset view. Entry fee is around LKR 200. Ideal for a peaceful end to the day. Plan for 1 hour."
+          },
+          {
+            "activity": "Dinner at a Local Restaurant",
+            "details": "Enjoy a budget-friendly dinner at a local restaurant. Try Sri Lankan rice and curry or kottu roti for an authentic culinary experience. Budget around LKR 500-1000. Enjoy local music."
+          }
+        ],
+        "travel_tip": "Wear comfortable shoes as you'll be doing a lot of walking. Dress respectfully when visiting religious sites (cover shoulders and knees). Stay hydrated, especially during the hotter parts of the day."
+      }
+    ],
+    "destinationImage": "https://images.pexels.com/photos/595196/pexels-photo-595196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "destinationOverview": "Sri Lanka, the 'Pearl of the Indian Ocean,' beckons with its diverse landscapes, from pristine beaches and lush tea plantations to ancient ruins and vibrant cities. This island nation boasts a rich cultural heritage shaped by Buddhism, Hinduism, and colonial influences. Discover a land of warm hospitality, exquisite cuisine, and captivating wildlife. Whether you seek spiritual enlightenment, thrilling adventures, or simply relaxation amidst stunning scenery, Sri Lanka offers an unforgettable travel experience.",
+    "youMightWantToAsk": [
+      {
+        "question": "What is the best way to get a visa for Sri Lanka?",
+        "answer": "Most nationalities can apply for an Electronic Travel Authorization (ETA) online before arrival. Ensure your passport is valid for at least six months."
+      },
+      {
+        "question": "What are some important cultural norms to be aware of?",
+        "answer": "Dress modestly when visiting religious sites. Remove shoes before entering temples. Avoid public displays of affection and be respectful of Buddhist monks."
+      },
+      {
+        "question": "What are the best transportation options for getting around?",
+        "answer": "Trains offer scenic routes, buses are affordable but crowded, and tuk-tuks are ideal for short distances. Renting a car with a driver is also a popular option."
+      },
+      {
+        "question": "What is a realistic daily budget for traveling in Sri Lanka?",
+        "answer": "Budget travelers can spend $30-50 USD per day, while mid-range travelers might budget $75-150. Luxury travel can easily exceed $200+ per day."
+      },
+      {
+        "question": "What are some must-do activities for first-time visitors?",
+        "answer": "Visit Sigiriya Rock Fortress, explore Kandy's Temple of the Tooth, relax on the beaches of the south coast, and go on a safari in Yala National Park."
+      }
+    ],
+    "bestTimeToVisit": "The west and south coasts are best visited from December to March, while the east coast is ideal from April to September.",
+    "hiddenGems": [
+      {
+        "name": "Knuckles Mountain Range",
+        "description": "Hike through diverse landscapes, cloud forests, and tea plantations in this stunning, relatively unexplored mountain range, perfect for adventurous travelers."
+      },
+      {
+        "name": "Pigeon Island National Park",
+        "description": "Snorkel or dive in the crystal-clear waters of this marine park off the coast of Nilaveli, home to vibrant coral reefs and diverse marine life."
+      },
+      {
+        "name": "Dambulla Cave Temple Museum",
+        "description": "Beyond the main cave temple, explore the museum showcasing the history and art of the Dambulla cave complex with ancient artifacts."
+      },
+      {
+        "name": "Gal Oya National Park",
+        "description": "Take a boat safari on the Senanayake Samudraya lake and witness elephants swimming between islands, a unique and unforgettable experience."
+      },
+      {
+        "name": "Yapahuwa Rock Fortress",
+        "description": "Explore the ruins of this ancient kingdom, a smaller and less crowded alternative to Sigiriya, offering stunning views and historical insights."
+      }
+    ],
+    "localExperiences": [
+      {
+        "name": "Tea Plantation Tour and Tasting",
+        "description": "Visit a tea plantation in the hill country, learn about the tea-making process from leaf to cup, and enjoy a tea tasting session with stunning views."
+      },
+      {
+        "name": "Ayurvedic Treatment",
+        "description": "Indulge in an authentic Ayurvedic treatment, a traditional healing system, at a wellness retreat or spa for relaxation and rejuvenation of mind and body."
+      },
+      {
+        "name": "Cooking Class",
+        "description": "Learn to prepare traditional Sri Lankan dishes like curry and hoppers in a hands-on cooking class, and savor the delicious flavors you create."
+      },
+      {
+        "name": "Attend a Perahera Festival",
+        "description": "Witness a vibrant Perahera festival, a colorful procession with dancers, drummers, and elephants, showcasing Sri Lanka's rich cultural heritage."
+      },
+      {
+        "name": "Train Journey Through the Hill Country",
+        "description": "Take a scenic train journey from Kandy to Ella, passing through lush tea plantations, misty mountains, and picturesque villages, a truly unforgettable experience."
+      }
+    ],
+    "foodAndDining": [
+      {
+        "name": "Rice and Curry",
+        "description": "A staple dish featuring rice served with an array of flavorful vegetable, meat, or fish curries, each region offering its unique variations."
+      },
+      {
+        "name": "Hoppers (Appa)",
+        "description": "Bowl-shaped pancakes made from fermented rice flour, often served with an egg in the center or with savory curries, a popular breakfast or dinner option."
+      },
+      {
+        "name": "Kottu Roti",
+        "description": "A popular street food dish made with chopped roti bread, vegetables, eggs, and meat or seafood, stir-fried together with spices on a hot griddle."
+      },
+      {
+        "name": "Watalappan",
+        "description": "A rich and creamy coconut custard pudding flavored with jaggery, cardamom, and nutmeg, a delightful Sri Lankan dessert."
+      },
+      {
+        "name": "Roti Shops",
+        "description": "Find affordable and delicious meals at local roti shops, serving a variety of savory and sweet filled rotis, a quick and budget-friendly option."
+      }
+    ],
+    "createdAt": "2025-09-01T17:44:45.817Z",
+    "updatedAt": "2025-09-01T17:44:45.817Z"
   }
 ]
