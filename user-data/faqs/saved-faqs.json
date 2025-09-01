@@ -1,0 +1,429 @@
+[
+  {
+    "id": 1,
+    "packingListId": 40,
+    "destination": "japan",
+    "faqs": [
+      {
+        "question": "What is the best time to visit japan?",
+        "answer": "Spring and autumn for pleasant weather."
+      },
+      {
+        "question": "What are the must-pack essentials for japan?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to japan?",
+        "answer": "Be respectful of local customs and traditions."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in japan?",
+        "answer": "Japanese Yen (JPY)"
+      },
+      {
+        "question": "Is it safe to travel to japan?",
+        "answer": "Be aware of your surroundings and belongings."
+      }
+    ],
+    "createdAt": "2025-08-26T17:05:17.716Z"
+  },
+  {
+    "faqs": [
+      {
+        "question": "What is the best time to visit Australia?",
+        "answer": "Summer (December-February) for warm weather."
+      },
+      {
+        "question": "What are the must-pack essentials for Australia?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to Australia?",
+        "answer": "Respect indigenous culture and customs."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in Australia?",
+        "answer": "Australian Dollar (AUD)"
+      },
+      {
+        "question": "Is it safe to travel to Australia?",
+        "answer": "Be aware of your surroundings and take precautions against theft."
+      }
+    ],
+    "meta": {
+      "destination": "Australia",
+      "days": "13",
+      "season": "summer",
+      "trip_type": "leisure"
+    },
+    "createdAt": "2025-08-27T16:51:13.728Z"
+  },
+  {
+    "id": 2,
+    "packingListId": 43,
+    "destination": "australia",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Australia?",
+        "answer": "Summer (November-March) offers warm weather, ideal for camping."
+      },
+      {
+        "question": "What are the must-pack essentials for Australia?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to Australia?",
+        "answer": "Respect Aboriginal culture and traditions. Learn a few basic phrases in English."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in Australia?",
+        "answer": "Australian dollar (AUD)"
+      },
+      {
+        "question": "Is it safe to travel to Australia?",
+        "answer": "Be aware of sun safety and stay hydrated. Respect wildlife and avoid close encounters."
+      }
+    ],
+    "createdAt": "2025-08-28T02:00:49.701Z"
+  },
+  {
+    "id": 3,
+    "packingListId": 44,
+    "destination": "japan",
+    "faqs": [
+      {
+        "question": "What is the best time to visit japan?",
+        "answer": "Spring and Autumn for pleasant weather."
+      },
+      {
+        "question": "What are the must-pack essentials for japan?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to japan?",
+        "answer": "Bowing is a common greeting. Remove shoes before entering homes and some temples."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in japan?",
+        "answer": "Japanese Yen (JPY)"
+      },
+      {
+        "question": "Is it safe to travel to japan?",
+        "answer": "Japan is generally safe, but be aware of pickpockets in crowded areas."
+      }
+    ],
+    "createdAt": "2025-08-28T02:01:47.615Z"
+  },
+  {
+    "id": 4,
+    "packingListId": 45,
+    "destination": "sydney",
+    "faqs": [
+      {
+        "question": "What is the best time to visit sydney?",
+        "answer": "Summer (December-February) offers warm weather ideal for hiking."
+      },
+      {
+        "question": "What are the must-pack essentials for sydney?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to sydney?",
+        "answer": "Sydney is a multicultural city. Be respectful of local customs."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in sydney?",
+        "answer": "Australian Dollar (AUD)"
+      },
+      {
+        "question": "Is it safe to travel to sydney?",
+        "answer": "Be aware of your surroundings, especially at night. Stay hydrated."
+      }
+    ],
+    "createdAt": "2025-08-28T02:05:56.719Z"
+  },
+  {
+    "id": 5,
+    "packingListId": 46,
+    "destination": "sri lanka trincomalee",
+    "faqs": [
+      {
+        "question": "What is the best time to visit sri lanka trincomalee?",
+        "answer": "December to March (dry season)."
+      },
+      {
+        "question": "What are the must-pack essentials for sri lanka trincomalee?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to sri lanka trincomalee?",
+        "answer": "Dress modestly, especially when visiting temples. Learn basic Sinhala phrases."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in sri lanka trincomalee?",
+        "answer": "Sri Lankan Rupee (LKR)"
+      },
+      {
+        "question": "Is it safe to travel to sri lanka trincomalee?",
+        "answer": "Be aware of your surroundings, especially at night."
+      }
+    ],
+    "createdAt": "2025-08-28T02:14:13.180Z"
+  },
+  {
+    "id": 6,
+    "packingListId": 47,
+    "destination": "australia",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Australia?",
+        "answer": "Summer (December-February) for warm weather and beach activities."
+      },
+      {
+        "question": "What are the must-pack essentials for Australia?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to Australia?",
+        "answer": "Be mindful of sun safety. Respect Indigenous culture."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in Australia?",
+        "answer": "Australian Dollar (AUD)"
+      },
+      {
+        "question": "Is it safe to travel to Australia?",
+        "answer": "Be aware of your surroundings, stay hydrated, and use sunscreen."
+      }
+    ],
+    "createdAt": "2025-08-28T02:18:02.421Z"
+  },
+  {
+    "id": 7,
+    "packingListId": 48,
+    "destination": "australia",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Australia?",
+        "answer": "Summer (December-February) for warm weather."
+      },
+      {
+        "question": "What are the must-pack essentials for Australia?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to Australia?",
+        "answer": "Be respectful of local customs and Aboriginal culture."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in Australia?",
+        "answer": "Australian Dollar (AUD)"
+      },
+      {
+        "question": "Is it safe to travel to Australia?",
+        "answer": "Be aware of your surroundings and take precautions against theft."
+      }
+    ],
+    "createdAt": "2025-08-28T02:19:37.873Z"
+  },
+  {
+    "id": 8,
+    "packingListId": 50,
+    "destination": "sri lanka",
+    "faqs": [
+      {
+        "question": "What is the best time to visit sri lanka?",
+        "answer": "December to March (dry season)"
+      },
+      {
+        "question": "What are the must-pack essentials for sri lanka?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to sri lanka?",
+        "answer": "Dress modestly when visiting religious sites."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in sri lanka?",
+        "answer": "Sri Lankan Rupee (LKR)"
+      },
+      {
+        "question": "Is it safe to travel to sri lanka?",
+        "answer": "Be aware of your surroundings and avoid walking alone at night."
+      }
+    ],
+    "createdAt": "2025-08-28T16:06:41.430Z"
+  },
+  {
+    "id": 9,
+    "packingListId": 51,
+    "destination": "sri lanka",
+    "faqs": [
+      {
+        "question": "What is the best time to visit sri lanka?",
+        "answer": "December to March (dry season)."
+      },
+      {
+        "question": "What are the must-pack essentials for sri lanka?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to sri lanka?",
+        "answer": "Dress modestly when visiting religious sites. Remove shoes."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in sri lanka?",
+        "answer": "Sri Lankan Rupee (LKR)"
+      },
+      {
+        "question": "Is it safe to travel to sri lanka?",
+        "answer": "Be aware of your surroundings; avoid walking alone at night."
+      }
+    ],
+    "createdAt": "2025-08-28T16:11:10.702Z"
+  },
+  {
+    "id": 10,
+    "packingListId": 52,
+    "destination": "sri lanka trincomalee",
+    "faqs": [
+      {
+        "question": "What is the best time to visit sri lanka trincomalee?",
+        "answer": "December to March (dry season)."
+      },
+      {
+        "question": "What are the must-pack essentials for sri lanka trincomalee?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to sri lanka trincomalee?",
+        "answer": "Dress modestly when visiting religious sites."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in sri lanka trincomalee?",
+        "answer": "Sri Lankan Rupee (LKR)"
+      },
+      {
+        "question": "Is it safe to travel to sri lanka trincomalee?",
+        "answer": "Be aware of your surroundings, especially at night."
+      }
+    ],
+    "createdAt": "2025-08-28T16:18:01.762Z"
+  },
+  {
+    "id": 11,
+    "packingListId": 53,
+    "destination": "australia",
+    "faqs": [
+      {
+        "question": "What is the best time to visit Australia?",
+        "answer": "Summer (December-February) for warm weather."
+      },
+      {
+        "question": "What are the must-pack essentials for Australia?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to Australia?",
+        "answer": "Respect Aboriginal culture and customs."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in Australia?",
+        "answer": "Australian Dollar (AUD)"
+      },
+      {
+        "question": "Is it safe to travel to Australia?",
+        "answer": "Be aware of wildlife and sun safety."
+      }
+    ],
+    "createdAt": "2025-08-28T16:34:58.297Z",
+    "source": "packing-list"
+  },
+  {
+    "id": 12,
+    "packingListId": 53,
+    "destination": "australia",
+    "faqs": [
+      {
+        "question": "What's the best way to get around Australia?",
+        "answer": "Domestic flights are efficient for long distances. Trains connect major cities, and rental cars offer flexibility, especially in rural areas. Consider bus passes for budget travel."
+      },
+      {
+        "question": "Are there any cultural sensitivities I should be aware of?",
+        "answer": "Respect Aboriginal culture and sacred sites. Dress modestly when visiting religious places. Be mindful of water usage and environmental conservation efforts throughout the country."
+      },
+      {
+        "question": "What are the transportation options from the airport to the city center?",
+        "answer": "Major cities have airport trains, shuttle buses, and taxi services. Ride-sharing apps are also readily available, offering convenient and often cheaper alternatives."
+      },
+      {
+        "question": "How much should I budget for a trip to Australia?",
+        "answer": "Australia can be expensive. Budget at least $100-$200 AUD per day for accommodation, food, and activities. Save money by cooking your meals and utilizing free activities."
+      },
+      {
+        "question": "What are some must-do activities in Australia?",
+        "answer": "Explore the Great Barrier Reef, visit Uluru, hike in the Blue Mountains, experience Aboriginal culture, and enjoy the beaches. Wine tasting in the Barossa Valley is also popular."
+      }
+    ],
+    "createdAt": "2025-08-28T16:35:32.801Z",
+    "source": "destination-overview"
+  },
+  {
+    "id": 13,
+    "packingListId": 54,
+    "destination": "japan",
+    "faqs": [
+      {
+        "question": "What is the best time to visit japan?",
+        "answer": "Spring and autumn for pleasant weather; summer for hiking in cooler mountain areas."
+      },
+      {
+        "question": "What are the must-pack essentials for japan?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to japan?",
+        "answer": "Bowing is common greeting. Remove shoes indoors. Be mindful of noise levels."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in japan?",
+        "answer": "Japanese Yen (JPY)"
+      },
+      {
+        "question": "Is it safe to travel to japan?",
+        "answer": "Japan is generally safe. Be aware of pickpockets in crowded areas."
+      }
+    ],
+    "createdAt": "2025-08-28T16:39:42.931Z",
+    "source": "packing-list"
+  },
+  {
+    "id": 14,
+    "packingListId": 54,
+    "destination": "japan",
+    "faqs": [
+      {
+        "question": "Is English widely spoken in Japan?",
+        "answer": "While English is taught in schools, it isn't widely spoken outside of major cities and tourist areas. Learning basic Japanese phrases is highly recommended for smoother travels."
+      },
+      {
+        "question": "What are some important Japanese customs to be aware of?",
+        "answer": "Bowing is a common greeting, avoid talking loudly on public transport, and removing shoes before entering homes or temples is customary. Tipping is generally not expected."
+      },
+      {
+        "question": "What is the best way to get around Japan?",
+        "answer": "Japan's public transportation system is incredibly efficient and punctual. The Japan Rail Pass is a cost-effective option for tourists traveling extensively by train, including the Shinkansen (bullet train)."
+      },
+      {
+        "question": "How much should I budget for a trip to Japan?",
+        "answer": "Japan can be expensive, but budget travel is possible. Expect to spend around $100-$200 per day, depending on accommodation choices, dining preferences, and activities. Consider a Japan Rail Pass."
+      },
+      {
+        "question": "What are some must-do activities in Japan?",
+        "answer": "Visit iconic temples and shrines, experience a traditional tea ceremony, explore vibrant cities like Tokyo and Osaka, relax in onsen (hot springs), and hike through stunning natural landscapes. "
+      }
+    ],
+    "createdAt": "2025-08-28T16:39:52.698Z",
+    "source": "destination-overview"
+  }
+]

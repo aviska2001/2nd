@@ -1,0 +1,3042 @@
+[
+  {
+    "id": "1",
+    "title": "japan - 20 Day Leisure Trip (Summer)",
+    "destination": "japan",
+    "days": "20",
+    "season": "summer",
+    "trip_type": "leisure",
+    "activities": "Hiking",
+    "packing_list": {
+      "clothing": [
+        {
+          "item": "Hiking shorts",
+          "quantity": 2,
+          "priority": "high",
+          "description": "Lightweight, quick-drying hiking shorts for warm weather."
+        },
+        {
+          "item": "Hiking pants",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Durable, comfortable pants for protection against insects."
+        },
+        {
+          "item": "T-shirts",
+          "quantity": "14 pieces",
+          "priority": "essential",
+          "description": "Breathable tops for layering and casual wear"
+        },
+        {
+          "item": "Hiking socks",
+          "quantity": 7,
+          "priority": "high",
+          "description": "Moisture-wicking socks to prevent blisters."
+        },
+        {
+          "item": "Underwear",
+          "quantity": "20",
+          "priority": "essential",
+          "description": "Fresh pair per day plus spares"
+        },
+        {
+          "item": "Lightweight fleece jacket",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Warm layer for cooler evenings or higher altitudes."
+        },
+        {
+          "item": "Rain jacket",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Waterproof and breathable jacket for sudden showers."
+        },
+        {
+          "item": "Hiking boots",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Broken-in, waterproof hiking boots for support."
+        },
+        {
+          "item": "Sandals or flip-flops",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "For relaxing after hikes or wearing around the hotel."
+        },
+        {
+          "item": "Hat",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Wide-brimmed hat for sun protection."
+        },
+        {
+          "item": "Swimsuit",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "For relaxing at onsen or by the beach (optional)."
+        },
+        {
+          "item": "Socks",
+          "quantity": "20",
+          "description": "Daily pairs; add moisture-wicking for long walks",
+          "priority": "essential"
+        },
+        {
+          "item": "Long-sleeve shirts",
+          "quantity": "6 pieces",
+          "description": "Layering for cooler mornings/evenings",
+          "priority": "recommended"
+        },
+        {
+          "item": "Pants",
+          "quantity": "6 pairs",
+          "description": "Versatile bottoms for day and evening",
+          "priority": "essential"
+        },
+        {
+          "item": "Shorts",
+          "quantity": "5 pairs",
+          "description": "For warm days and casual outings",
+          "priority": "recommended"
+        },
+        {
+          "item": "Comfortable walking shoes",
+          "quantity": "1 pair",
+          "description": "Broken-in shoes for long days on your feet",
+          "priority": "essential"
+        },
+        {
+          "item": "Hat/Cap",
+          "quantity": "1",
+          "description": "Sun protection for outdoor time",
+          "priority": "recommended"
+        }
+      ],
+      "toiletries": [
+        {
+          "item": "Sunscreen",
+          "quantity": 1,
+          "priority": "high",
+          "description": "High SPF sunscreen for sun protection."
+        },
+        {
+          "item": "Insect repellent",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Effective insect repellent for mosquitoes and other insects."
+        },
+        {
+          "item": "Toiletries bag",
+          "quantity": 1,
+          "priority": "high",
+          "description": "To store all your toiletries securely."
+        },
+        {
+          "item": "Toothbrush and toothpaste",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Basic oral hygiene items."
+        },
+        {
+          "item": "Shampoo and conditioner",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Travel-sized shampoo and conditioner."
+        },
+        {
+          "item": "Soap",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Bar soap for showering."
+        },
+        {
+          "item": "Toothbrush & toothpaste",
+          "quantity": "1 set",
+          "description": "Daily dental hygiene",
+          "priority": "essential"
+        },
+        {
+          "item": "Deodorant",
+          "quantity": "1",
+          "description": "Personal hygiene",
+          "priority": "essential"
+        },
+        {
+          "item": "Sunscreen SPF 30+",
+          "quantity": "1 bottle",
+          "description": "UV protection during outdoor activities",
+          "priority": "essential"
+        },
+        {
+          "item": "Shampoo/Conditioner (travel size)",
+          "quantity": "1 set",
+          "description": "Hair care in carry-on-friendly sizes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Basic makeup & skincare",
+          "quantity": "As needed",
+          "description": "Daily routine essentials",
+          "priority": "optional"
+        },
+        {
+          "item": "After-sun lotion",
+          "quantity": "1 small",
+          "description": "Soothe sun-exposed skin",
+          "priority": "optional"
+        }
+      ],
+      "electronics": [
+        {
+          "item": "Phone",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Smartphone for communication and navigation."
+        },
+        {
+          "item": "Portable charger",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Portable charger for your phone."
+        },
+        {
+          "item": "Camera",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "To capture memories of your trip."
+        },
+        {
+          "item": "Adapter",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Japan uses Type A and B plugs."
+        },
+        {
+          "item": "Phone + charger",
+          "quantity": "1",
+          "description": "Connectivity and travel apps",
+          "priority": "essential"
+        },
+        {
+          "item": "Portable power bank",
+          "quantity": "1",
+          "description": "Backup power for long days",
+          "priority": "recommended"
+        },
+        {
+          "item": "Universal travel adapter",
+          "quantity": "1",
+          "description": "Plug and voltage compatibility in many regions",
+          "priority": "essential"
+        }
+      ],
+      "documents": [
+        {
+          "item": "Passport",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Valid passport with at least six months validity."
+        },
+        {
+          "item": "Visa (if required)",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Check visa requirements for your nationality."
+        },
+        {
+          "item": "Flight/train tickets",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Printed or digital copies of your tickets."
+        },
+        {
+          "item": "Travel insurance details",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Information on your travel insurance policy."
+        },
+        {
+          "item": "Accommodation confirmations",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Confirmations of your hotel or other accommodation."
+        },
+        {
+          "item": "Passport/ID",
+          "quantity": "1",
+          "description": "Primary identification for travel",
+          "priority": "essential"
+        },
+        {
+          "item": "Travel insurance",
+          "quantity": "1 policy",
+          "description": "Coverage for emergencies and disruptions",
+          "priority": "essential"
+        },
+        {
+          "item": "Itineraries & reservations",
+          "quantity": "1 set",
+          "description": "Flight, hotel, and booking confirmations",
+          "priority": "essential"
+        },
+        {
+          "item": "Payment methods",
+          "quantity": "Cards + some cash",
+          "description": "Local currency and backup card",
+          "priority": "essential"
+        }
+      ],
+      "health_safety": [
+        {
+          "item": "First-aid kit",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Basic first-aid kit with essentials."
+        },
+        {
+          "item": "Personal medications",
+          "quantity": "Sufficient for trip",
+          "priority": "essential",
+          "description": "Bring prescriptions and a few spare days"
+        },
+        {
+          "item": "Motion sickness medication",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "For those prone to motion sickness."
+        },
+        {
+          "item": "Mini first aid kit",
+          "quantity": "1 small kit",
+          "description": "Plasters, pain reliever, antiseptic wipes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Hand sanitizer",
+          "quantity": "1 small bottle",
+          "description": "Hygiene when soap/water unavailable",
+          "priority": "recommended"
+        }
+      ],
+      "activity_specific": [
+        {
+          "item": "Daypack",
+          "quantity": 1,
+          "priority": "high",
+          "description": "For carrying water, snacks, and other essentials during hikes."
+        },
+        {
+          "item": "Hiking poles",
+          "quantity": 2,
+          "priority": "high",
+          "description": "Reduce strain on knees and ankles during hikes."
+        },
+        {
+          "item": "Water bottle",
+          "quantity": 1,
+          "priority": "high",
+          "description": "To stay hydrated during hikes."
+        },
+        {
+          "item": "Map and compass/GPS device",
+          "quantity": 1,
+          "priority": "high",
+          "description": "For navigation on the trails."
+        },
+        {
+          "item": "Headlamp or flashlight",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "For navigating trails in low light conditions."
+        },
+        {
+          "item": "Sunscreen",
+          "quantity": 1,
+          "priority": "high",
+          "description": "High SPF for hiking in summer."
+        },
+        {
+          "item": "Snacks",
+          "quantity": "sufficient",
+          "priority": "high",
+          "description": "High-energy snacks for hiking."
+        },
+        {
+          "item": "Hiking boots/shoes",
+          "quantity": "1 pair",
+          "description": "Trail-appropriate footwear with grip",
+          "priority": "essential"
+        },
+        {
+          "item": "Moisture-wicking socks",
+          "quantity": "2-3 pairs",
+          "description": "Reduce blisters on trails",
+          "priority": "recommended"
+        },
+        {
+          "item": "Trekking poles",
+          "quantity": "1 pair",
+          "description": "Stability on uneven terrain",
+          "priority": "optional"
+        },
+        {
+          "item": "Trail snacks",
+          "quantity": "2-3 packs",
+          "description": "Energy for longer hikes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Rain jacket",
+          "quantity": "1",
+          "description": "Weather protection in the mountains",
+          "priority": "recommended"
+        }
+      ],
+      "miscellaneous": [
+        {
+          "item": "Phrasebook/translation app",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Helpful for basic communication."
+        },
+        {
+          "item": "Reusable shopping bag",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Environmentally friendly shopping option."
+        },
+        {
+          "item": "Small padlock",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "To secure luggage."
+        },
+        {
+          "item": "Reusable water bottle",
+          "quantity": "1",
+          "description": "Stay hydrated while exploring",
+          "priority": "recommended"
+        },
+        {
+          "item": "Daypack",
+          "quantity": "1",
+          "description": "Carry essentials on day trips",
+          "priority": "recommended"
+        },
+        {
+          "item": "Travel pillow",
+          "quantity": "1",
+          "description": "Comfort on flights or long rides",
+          "priority": "optional"
+        },
+        {
+          "item": "Laundry detergent sheets",
+          "quantity": "2-3",
+          "description": "Quick sink washes on longer trips",
+          "priority": "optional"
+        }
+      ]
+    },
+    "packing_tips": [
+      "Roll your clothes to save space.",
+      "Pack versatile clothing items.",
+      "Use packing cubes to organize your belongings.",
+      "Leave extra space for souvenirs.",
+      "Check the weather forecast before you go.",
+      "Roll clothes to save space and minimize wrinkles",
+      "Pack versatile layers that mix and match",
+      "Keep essentials and documents in your carry-on"
+    ],
+    "destination_notes": "Enjoy the stunning natural beauty of Japan during your hiking adventure!",
+    "destination_details": {
+      "overview": "Japan offers diverse landscapes perfect for hiking, from mountains to forests.",
+      "best_time_to_visit": "Spring and Autumn for pleasant weather; Summer for hiking in cooler mountain areas.",
+      "weather_summary": "Hot and humid summers, particularly in July and August.",
+      "cultural_tips": "Bowing is common greeting; remove shoes indoors; be mindful of noise levels.",
+      "local_transport": "Efficient public transport; consider a Japan Rail Pass for extensive travel.",
+      "currency": "Japanese Yen (JPY)",
+      "language": "Japanese",
+      "power_plugs": "Type A and B",
+      "safety_tips": "Japan is generally safe; be aware of pickpockets in crowded areas."
+    },
+    "faqs": [
+      {
+        "question": "What is the best time to visit japan?",
+        "answer": "Spring and Autumn for pleasant weather; Summer for hiking in cooler mountain areas."
+      },
+      {
+        "question": "What are the must-pack essentials for japan?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to japan?",
+        "answer": "Bowing is common greeting; remove shoes indoors; be mindful of noise levels."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in japan?",
+        "answer": "Japanese Yen (JPY)"
+      },
+      {
+        "question": "Is it safe to travel to japan?",
+        "answer": "Japan is generally safe; be aware of pickpockets in crowded areas."
+      }
+    ],
+    "destination_image": "https://images.pexels.com/photos/33636731/pexels-photo-33636731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "createdAt": "2025-08-28T17:12:00.458Z",
+    "updatedAt": "2025-08-28T17:12:00.458Z"
+  },
+  {
+    "id": "2",
+    "title": "sri lanka - 2 Day Leisure Trip (Summer)",
+    "destination": "sri lanka",
+    "days": "2",
+    "season": "summer",
+    "trip_type": "leisure",
+    "activities": "Sightseeing",
+    "packing_list": {
+      "clothing": [
+        {
+          "item": "Lightweight shirts",
+          "quantity": 3,
+          "priority": "high",
+          "description": "Cotton or linen; breathable for hot weather."
+        },
+        {
+          "item": "Shorts",
+          "quantity": "1 pairs",
+          "priority": "recommended",
+          "description": "For warm days and casual outings"
+        },
+        {
+          "item": "Lightweight trousers",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "For evenings or more formal occasions."
+        },
+        {
+          "item": "Sundress/skirt",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Comfortable and suitable for warm weather."
+        },
+        {
+          "item": "Swimsuit",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "If you plan on swimming or visiting beaches."
+        },
+        {
+          "item": "Underwear & socks",
+          "quantity": 3,
+          "priority": "high",
+          "description": "Enough for each day, plus a spare."
+        },
+        {
+          "item": "Light jacket/sweater",
+          "quantity": 1,
+          "priority": "low",
+          "description": "For cooler evenings or air-conditioned spaces."
+        },
+        {
+          "item": "Comfortable walking shoes",
+          "quantity": "1 pair",
+          "priority": "essential",
+          "description": "Broken-in shoes for long days on your feet"
+        },
+        {
+          "item": "Sandals/flip-flops",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "For relaxing or beach visits."
+        },
+        {
+          "item": "Underwear",
+          "quantity": "4",
+          "description": "Fresh pair per day plus spares",
+          "priority": "essential"
+        },
+        {
+          "item": "Socks",
+          "quantity": "4",
+          "description": "Daily pairs; add moisture-wicking for long walks",
+          "priority": "essential"
+        },
+        {
+          "item": "T-shirts",
+          "quantity": "3 pieces",
+          "description": "Breathable tops for layering and casual wear",
+          "priority": "essential"
+        },
+        {
+          "item": "Long-sleeve shirts",
+          "quantity": "1 pieces",
+          "description": "Layering for cooler mornings/evenings",
+          "priority": "recommended"
+        },
+        {
+          "item": "Pants",
+          "quantity": "1 pairs",
+          "description": "Versatile bottoms for day and evening",
+          "priority": "essential"
+        },
+        {
+          "item": "Hat/Cap",
+          "quantity": "1",
+          "description": "Sun protection for outdoor time",
+          "priority": "recommended"
+        }
+      ],
+      "toiletries": [
+        {
+          "item": "Sunscreen",
+          "quantity": 1,
+          "priority": "high",
+          "description": "High SPF, essential for strong sun."
+        },
+        {
+          "item": "Insect repellent",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Protect against mosquitoes and other insects."
+        },
+        {
+          "item": "Toothbrush, toothpaste",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Personal hygiene essentials."
+        },
+        {
+          "item": "Shampoo, conditioner",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Travel-sized bottles preferred."
+        },
+        {
+          "item": "Soap/body wash",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Travel-sized bottles preferred."
+        },
+        {
+          "item": "Deodorant",
+          "quantity": "1",
+          "priority": "essential",
+          "description": "Personal hygiene"
+        },
+        {
+          "item": "Toothbrush & toothpaste",
+          "quantity": "1 set",
+          "description": "Daily dental hygiene",
+          "priority": "essential"
+        },
+        {
+          "item": "Sunscreen SPF 30+",
+          "quantity": "1 bottle",
+          "description": "UV protection during outdoor activities",
+          "priority": "essential"
+        },
+        {
+          "item": "Shampoo/Conditioner (travel size)",
+          "quantity": "1 set",
+          "description": "Hair care in carry-on-friendly sizes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Basic makeup & skincare",
+          "quantity": "As needed",
+          "description": "Daily routine essentials",
+          "priority": "optional"
+        },
+        {
+          "item": "After-sun lotion",
+          "quantity": "1 small",
+          "description": "Soothe sun-exposed skin",
+          "priority": "optional"
+        }
+      ],
+      "electronics": [
+        {
+          "item": "Phone",
+          "quantity": 1,
+          "priority": "high",
+          "description": "For communication and photography."
+        },
+        {
+          "item": "Camera (optional)",
+          "quantity": 1,
+          "priority": "low",
+          "description": "For capturing memories."
+        },
+        {
+          "item": "Universal adapter",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Sri Lanka uses type D and G plugs."
+        },
+        {
+          "item": "Portable charger",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Keeps your devices charged."
+        },
+        {
+          "item": "Headphones",
+          "quantity": 1,
+          "priority": "low",
+          "description": "For entertainment during travel."
+        },
+        {
+          "item": "Phone + charger",
+          "quantity": "1",
+          "description": "Connectivity and travel apps",
+          "priority": "essential"
+        },
+        {
+          "item": "Portable power bank",
+          "quantity": "1",
+          "description": "Backup power for long days",
+          "priority": "recommended"
+        },
+        {
+          "item": "Universal travel adapter",
+          "quantity": "1",
+          "description": "Plug and voltage compatibility in many regions",
+          "priority": "essential"
+        }
+      ],
+      "documents": [
+        {
+          "item": "Passport",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Essential for international travel."
+        },
+        {
+          "item": "Visa (if required)",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Check visa requirements beforehand."
+        },
+        {
+          "item": "Flight/hotel confirmations",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Printouts or digital copies."
+        },
+        {
+          "item": "Travel insurance details",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Important for emergencies."
+        },
+        {
+          "item": "Copies of important documents",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Keep separately from originals."
+        },
+        {
+          "item": "Passport/ID",
+          "quantity": "1",
+          "description": "Primary identification for travel",
+          "priority": "essential"
+        },
+        {
+          "item": "Travel insurance",
+          "quantity": "1 policy",
+          "description": "Coverage for emergencies and disruptions",
+          "priority": "essential"
+        },
+        {
+          "item": "Itineraries & reservations",
+          "quantity": "1 set",
+          "description": "Flight, hotel, and booking confirmations",
+          "priority": "essential"
+        },
+        {
+          "item": "Payment methods",
+          "quantity": "Cards + some cash",
+          "description": "Local currency and backup card",
+          "priority": "essential"
+        }
+      ],
+      "health_safety": [
+        {
+          "item": "First-aid kit",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Include bandages, antiseptic wipes, pain relievers."
+        },
+        {
+          "item": "Prescription medications",
+          "quantity": "as needed",
+          "priority": "high",
+          "description": "Bring sufficient supply with prescription."
+        },
+        {
+          "item": "Motion sickness medication (optional)",
+          "quantity": "as needed",
+          "priority": "low",
+          "description": "If prone to motion sickness."
+        },
+        {
+          "item": "Sunscreen",
+          "quantity": 1,
+          "priority": "high",
+          "description": "High SPF, essential for strong sun."
+        },
+        {
+          "item": "Insect repellent",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Protect against mosquitoes and other insects."
+        },
+        {
+          "item": "Personal medications",
+          "quantity": "Sufficient for trip",
+          "description": "Bring prescriptions and a few spare days",
+          "priority": "essential"
+        },
+        {
+          "item": "Mini first aid kit",
+          "quantity": "1 small kit",
+          "description": "Plasters, pain reliever, antiseptic wipes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Hand sanitizer",
+          "quantity": "1 small bottle",
+          "description": "Hygiene when soap/water unavailable",
+          "priority": "recommended"
+        }
+      ],
+      "activity_specific": [
+        {
+          "item": "Hat",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Provides shade from the sun."
+        },
+        {
+          "item": "Sunglasses",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Protect your eyes from the sun."
+        },
+        {
+          "item": "Reusable water bottle",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Stay hydrated in the heat."
+        },
+        {
+          "item": "Day bag/backpack",
+          "quantity": 1,
+          "priority": "high",
+          "description": "For carrying essentials during sightseeing."
+        },
+        {
+          "item": "Small towel",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Useful for unexpected situations."
+        }
+      ],
+      "miscellaneous": [
+        {
+          "item": "Phrasebook/translation app",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Helpful for communication."
+        },
+        {
+          "item": "Local currency (some)",
+          "quantity": "as needed",
+          "priority": "high",
+          "description": "For smaller expenses."
+        },
+        {
+          "item": "Small padlock",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "For securing luggage."
+        },
+        {
+          "item": "Snacks",
+          "quantity": "as needed",
+          "priority": "low",
+          "description": "Non-perishable snacks for travel."
+        },
+        {
+          "item": "Reusable water bottle",
+          "quantity": "1",
+          "description": "Stay hydrated while exploring",
+          "priority": "recommended"
+        },
+        {
+          "item": "Daypack",
+          "quantity": "1",
+          "description": "Carry essentials on day trips",
+          "priority": "recommended"
+        },
+        {
+          "item": "Travel pillow",
+          "quantity": "1",
+          "description": "Comfort on flights or long rides",
+          "priority": "optional"
+        },
+        {
+          "item": "Laundry detergent sheets",
+          "quantity": "2-3",
+          "description": "Quick sink washes on longer trips",
+          "priority": "optional"
+        }
+      ]
+    },
+    "packing_tips": [
+      "Roll clothes to save space.",
+      "Use packing cubes to organize.",
+      "Pack lighter than you think you need.",
+      "Keep essentials in your carry-on bag.",
+      "Roll clothes to save space and minimize wrinkles",
+      "Pack versatile layers that mix and match",
+      "Keep essentials and documents in your carry-on",
+      "Carry a reusable water bottle and refill often"
+    ],
+    "destination_notes": "Remember to dress respectfully when visiting religious sites.",
+    "destination_details": {
+      "overview": "Sri Lanka is an island nation offering diverse landscapes, from beaches to mountains.",
+      "best_time_to_visit": "November to March (dry season).",
+      "weather_summary": "Hot and humid, especially during summer (March-May).",
+      "cultural_tips": "Dress modestly, remove shoes before entering temples, learn basic Sinhala phrases.",
+      "local_transport": "Trains, buses, tuk-tuks, and taxis are readily available.",
+      "currency": "Sri Lankan Rupee (LKR)",
+      "language": "Sinhala and Tamil are official languages; English is widely spoken.",
+      "power_plugs": "Type D and G.",
+      "safety_tips": "Be aware of your surroundings, avoid walking alone at night, use reputable transportation."
+    },
+    "faqs": [
+      {
+        "question": "What is the best time to visit sri lanka?",
+        "answer": "November to March (dry season)."
+      },
+      {
+        "question": "What are the must-pack essentials for sri lanka?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to sri lanka?",
+        "answer": "Dress modestly, remove shoes before entering temples, learn basic Sinhala phrases."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in sri lanka?",
+        "answer": "Sri Lankan Rupee (LKR)"
+      },
+      {
+        "question": "Is it safe to travel to sri lanka?",
+        "answer": "Be aware of your surroundings, avoid walking alone at night, use reputable transportation."
+      }
+    ],
+    "destination_image": "https://images.pexels.com/photos/595196/pexels-photo-595196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "createdAt": "2025-08-28T17:19:38.742Z",
+    "updatedAt": "2025-08-28T17:19:38.742Z"
+  },
+  {
+    "id": "3",
+    "title": "sri lanka kandy - 4 Day Leisure Trip (Summer)",
+    "destination": "sri lanka kandy",
+    "days": "4",
+    "season": "summer",
+    "trip_type": "leisure",
+    "activities": "Sightseeing, Camping",
+    "packing_list": {
+      "clothing": [
+        {
+          "item": "T-shirts",
+          "quantity": "5 pieces",
+          "description": "Breathable tops for layering and casual wear",
+          "priority": "essential"
+        },
+        {
+          "item": "Shorts",
+          "quantity": "2 pairs",
+          "description": "For warm days and casual outings",
+          "priority": "recommended"
+        },
+        {
+          "item": "Long pants",
+          "quantity": 1,
+          "description": "For evenings or temple visits; lightweight and comfortable.",
+          "priority": "medium"
+        },
+        {
+          "item": "Hiking pants",
+          "quantity": 1,
+          "description": "Durable pants for hiking and outdoor activities.",
+          "priority": "medium"
+        },
+        {
+          "item": "Underwear",
+          "quantity": "6",
+          "description": "Fresh pair per day plus spares",
+          "priority": "essential"
+        },
+        {
+          "item": "Socks",
+          "quantity": "6",
+          "description": "Daily pairs; add moisture-wicking for long walks",
+          "priority": "essential"
+        },
+        {
+          "item": "Light jacket",
+          "quantity": 1,
+          "description": "For cooler evenings or air-conditioned spaces.",
+          "priority": "medium"
+        },
+        {
+          "item": "Swimsuit",
+          "quantity": 1,
+          "description": "For swimming or relaxing by the water.",
+          "priority": "medium"
+        },
+        {
+          "item": "Rain jacket",
+          "quantity": 1,
+          "description": "Waterproof and lightweight for unexpected showers.",
+          "priority": "high"
+        },
+        {
+          "item": "Hat",
+          "quantity": 1,
+          "description": "Wide-brimmed hat for sun protection.",
+          "priority": "high"
+        },
+        {
+          "item": "Long-sleeve shirts",
+          "quantity": "2 pieces",
+          "description": "Layering for cooler mornings/evenings",
+          "priority": "recommended"
+        },
+        {
+          "item": "Pants",
+          "quantity": "2 pairs",
+          "description": "Versatile bottoms for day and evening",
+          "priority": "essential"
+        },
+        {
+          "item": "Comfortable walking shoes",
+          "quantity": "1 pair",
+          "description": "Broken-in shoes for long days on your feet",
+          "priority": "essential"
+        },
+        {
+          "item": "Hat/Cap",
+          "quantity": "1",
+          "description": "Sun protection for outdoor time",
+          "priority": "recommended"
+        }
+      ],
+      "toiletries": [
+        {
+          "item": "Sunscreen",
+          "quantity": 1,
+          "description": "High SPF sunscreen for protection from strong sun.",
+          "priority": "high"
+        },
+        {
+          "item": "Insect repellent",
+          "quantity": 1,
+          "description": "Effective repellent for mosquitoes and other insects.",
+          "priority": "high"
+        },
+        {
+          "item": "Toothbrush",
+          "quantity": 1,
+          "description": "Travel-sized toothbrush for convenience.",
+          "priority": "high"
+        },
+        {
+          "item": "Toothpaste",
+          "quantity": 1,
+          "description": "Travel-sized toothpaste.",
+          "priority": "high"
+        },
+        {
+          "item": "Soap/body wash",
+          "quantity": 1,
+          "description": "Travel-sized soap or body wash.",
+          "priority": "high"
+        },
+        {
+          "item": "Shampoo/conditioner",
+          "quantity": 1,
+          "description": "Travel-sized shampoo and conditioner.",
+          "priority": "medium"
+        },
+        {
+          "item": "Deodorant",
+          "quantity": "1",
+          "description": "Personal hygiene",
+          "priority": "essential"
+        },
+        {
+          "item": "Toothbrush & toothpaste",
+          "quantity": "1 set",
+          "description": "Daily dental hygiene",
+          "priority": "essential"
+        },
+        {
+          "item": "Sunscreen SPF 30+",
+          "quantity": "1 bottle",
+          "description": "UV protection during outdoor activities",
+          "priority": "essential"
+        },
+        {
+          "item": "Shampoo/Conditioner (travel size)",
+          "quantity": "1 set",
+          "description": "Hair care in carry-on-friendly sizes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Basic makeup & skincare",
+          "quantity": "As needed",
+          "description": "Daily routine essentials",
+          "priority": "optional"
+        },
+        {
+          "item": "After-sun lotion",
+          "quantity": "1 small",
+          "description": "Soothe sun-exposed skin",
+          "priority": "optional"
+        }
+      ],
+      "electronics": [
+        {
+          "item": "Phone",
+          "quantity": 1,
+          "description": "Smartphone for communication and photography.",
+          "priority": "high"
+        },
+        {
+          "item": "Camera",
+          "quantity": 1,
+          "description": "Camera for capturing memorable moments.",
+          "priority": "medium"
+        },
+        {
+          "item": "Portable charger",
+          "quantity": 1,
+          "description": "Power bank for charging electronics on the go.",
+          "priority": "high"
+        },
+        {
+          "item": "Headlamp/flashlight",
+          "quantity": 1,
+          "description": "Essential for camping and nighttime activities.",
+          "priority": "high"
+        },
+        {
+          "item": "Universal adapter",
+          "quantity": 1,
+          "description": "Sri Lanka uses Type D and G plugs.",
+          "priority": "high"
+        },
+        {
+          "item": "Phone + charger",
+          "quantity": "1",
+          "description": "Connectivity and travel apps",
+          "priority": "essential"
+        },
+        {
+          "item": "Portable power bank",
+          "quantity": "1",
+          "description": "Backup power for long days",
+          "priority": "recommended"
+        },
+        {
+          "item": "Universal travel adapter",
+          "quantity": "1",
+          "description": "Plug and voltage compatibility in many regions",
+          "priority": "essential"
+        }
+      ],
+      "documents": [
+        {
+          "item": "Passport",
+          "quantity": 1,
+          "description": "Valid passport with sufficient validity.",
+          "priority": "high"
+        },
+        {
+          "item": "Visa (if required)",
+          "quantity": 1,
+          "description": "Check visa requirements before travel.",
+          "priority": "high"
+        },
+        {
+          "item": "Flight/train tickets",
+          "quantity": 1,
+          "description": "Printed or digital copies of your tickets.",
+          "priority": "high"
+        },
+        {
+          "item": "Travel insurance details",
+          "quantity": 1,
+          "description": "Information about your travel insurance.",
+          "priority": "high"
+        },
+        {
+          "item": "Copies of important documents",
+          "quantity": 1,
+          "description": "Copies of passport, visa, tickets.",
+          "priority": "high"
+        },
+        {
+          "item": "Passport/ID",
+          "quantity": "1",
+          "description": "Primary identification for travel",
+          "priority": "essential"
+        },
+        {
+          "item": "Travel insurance",
+          "quantity": "1 policy",
+          "description": "Coverage for emergencies and disruptions",
+          "priority": "essential"
+        },
+        {
+          "item": "Itineraries & reservations",
+          "quantity": "1 set",
+          "description": "Flight, hotel, and booking confirmations",
+          "priority": "essential"
+        },
+        {
+          "item": "Payment methods",
+          "quantity": "Cards + some cash",
+          "description": "Local currency and backup card",
+          "priority": "essential"
+        }
+      ],
+      "health_safety": [
+        {
+          "item": "First-aid kit",
+          "quantity": 1,
+          "description": "Basic first-aid kit with essential supplies.",
+          "priority": "high"
+        },
+        {
+          "item": "Any necessary medications",
+          "quantity": 1,
+          "description": "Prescription medications with doctor's note.",
+          "priority": "high"
+        },
+        {
+          "item": "Hand sanitizer",
+          "quantity": "1 small bottle",
+          "description": "Hygiene when soap/water unavailable",
+          "priority": "recommended"
+        },
+        {
+          "item": "Personal medications",
+          "quantity": "Sufficient for trip",
+          "description": "Bring prescriptions and a few spare days",
+          "priority": "essential"
+        },
+        {
+          "item": "Mini first aid kit",
+          "quantity": "1 small kit",
+          "description": "Plasters, pain reliever, antiseptic wipes",
+          "priority": "recommended"
+        }
+      ],
+      "activity_specific": [
+        {
+          "item": "Backpack",
+          "quantity": 1,
+          "description": "Comfortable backpack for carrying essentials.",
+          "priority": "high"
+        },
+        {
+          "item": "Hiking boots",
+          "quantity": 1,
+          "description": "Sturdy hiking boots for comfortable trekking.",
+          "priority": "high"
+        },
+        {
+          "item": "Camping gear (tent, sleeping bag)",
+          "quantity": 1,
+          "description": "Essential for camping experience.",
+          "priority": "high"
+        },
+        {
+          "item": "Water bottle",
+          "quantity": 1,
+          "description": "Reusable water bottle to stay hydrated.",
+          "priority": "high"
+        }
+      ],
+      "miscellaneous": [
+        {
+          "item": "Small towel",
+          "quantity": 1,
+          "description": "Quick-drying microfiber towel.",
+          "priority": "medium"
+        },
+        {
+          "item": "Book/e-reader",
+          "quantity": 1,
+          "description": "For relaxation during downtime.",
+          "priority": "medium"
+        },
+        {
+          "item": "Phrasebook/translation app",
+          "quantity": 1,
+          "description": "Helpful for basic communication.",
+          "priority": "medium"
+        },
+        {
+          "item": "Reusable shopping bag",
+          "quantity": 1,
+          "description": "Eco-friendly alternative to plastic bags.",
+          "priority": "medium"
+        },
+        {
+          "item": "Cash (Sri Lankan Rupees)",
+          "quantity": 1,
+          "description": "Some cash for smaller purchases.",
+          "priority": "medium"
+        },
+        {
+          "item": "Reusable water bottle",
+          "quantity": "1",
+          "description": "Stay hydrated while exploring",
+          "priority": "recommended"
+        },
+        {
+          "item": "Daypack",
+          "quantity": "1",
+          "description": "Carry essentials on day trips",
+          "priority": "recommended"
+        },
+        {
+          "item": "Travel pillow",
+          "quantity": "1",
+          "description": "Comfort on flights or long rides",
+          "priority": "optional"
+        },
+        {
+          "item": "Laundry detergent sheets",
+          "quantity": "2-3",
+          "description": "Quick sink washes on longer trips",
+          "priority": "optional"
+        }
+      ]
+    },
+    "packing_tips": [
+      "Pack light clothing suitable for warm, humid weather.",
+      "Use packing cubes to organize your belongings.",
+      "Roll your clothes instead of folding to save space.",
+      "Keep important documents and medications readily accessible.",
+      "Protect your electronics from rain and moisture.",
+      "Roll clothes to save space and minimize wrinkles",
+      "Pack versatile layers that mix and match",
+      "Keep essentials and documents in your carry-on"
+    ],
+    "destination_notes": "Remember to respect local customs and dress modestly when visiting religious sites.",
+    "destination_details": {
+      "overview": "Kandy is a city in central Sri Lanka, known for its rich cultural heritage and natural beauty.",
+      "best_time_to_visit": "November to April (dry season)",
+      "weather_summary": "Hot and humid during summer, with occasional rain.",
+      "cultural_tips": "Dress modestly when visiting temples, remove shoes before entering.",
+      "local_transport": "Taxis, tuk-tuks, and buses are readily available.",
+      "currency": "Sri Lankan Rupee (LKR)",
+      "language": "Sinhala and Tamil, English widely spoken.",
+      "power_plugs": "Type D and G",
+      "safety_tips": "Be aware of your surroundings, especially at night. Avoid displaying expensive jewelry."
+    },
+    "faqs": [
+      {
+        "question": "What is the best time to visit sri lanka kandy?",
+        "answer": "November to April (dry season)"
+      },
+      {
+        "question": "What are the must-pack essentials for sri lanka kandy?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to sri lanka kandy?",
+        "answer": "Dress modestly when visiting temples, remove shoes before entering."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in sri lanka kandy?",
+        "answer": "Sri Lankan Rupee (LKR)"
+      },
+      {
+        "question": "Is it safe to travel to sri lanka kandy?",
+        "answer": "Be aware of your surroundings, especially at night. Avoid displaying expensive jewelry."
+      }
+    ],
+    "destination_image": "https://images.pexels.com/photos/12047518/pexels-photo-12047518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "createdAt": "2025-08-28T17:36:16.193Z",
+    "updatedAt": "2025-08-28T17:36:16.193Z"
+  },
+  {
+    "id": "4",
+    "title": "Paris, France - 12 Day Business Trip (Summer)",
+    "destination": "Paris, France",
+    "days": "12",
+    "season": "summer",
+    "trip_type": "business",
+    "activities": "Hiking",
+    "packing_list": {
+      "clothing": [
+        {
+          "item": "Underwear",
+          "quantity": "14",
+          "description": "Fresh pair per day plus spares",
+          "priority": "essential"
+        },
+        {
+          "item": "Socks",
+          "quantity": "14",
+          "description": "Daily pairs; add moisture-wicking for long walks",
+          "priority": "essential"
+        },
+        {
+          "item": "T-shirts",
+          "quantity": "11 pieces",
+          "description": "Breathable tops for layering and casual wear",
+          "priority": "essential"
+        },
+        {
+          "item": "Long-sleeve shirts",
+          "quantity": "4 pieces",
+          "description": "Layering for cooler mornings/evenings",
+          "priority": "recommended"
+        },
+        {
+          "item": "Pants",
+          "quantity": "4 pairs",
+          "description": "Versatile bottoms for day and evening",
+          "priority": "essential"
+        },
+        {
+          "item": "Shorts",
+          "quantity": "4 pairs",
+          "description": "For warm days and casual outings",
+          "priority": "recommended"
+        },
+        {
+          "item": "Comfortable walking shoes",
+          "quantity": "1 pair",
+          "description": "Broken-in shoes for long days on your feet",
+          "priority": "essential"
+        },
+        {
+          "item": "Hat/Cap",
+          "quantity": "1",
+          "description": "Sun protection for outdoor time",
+          "priority": "recommended"
+        },
+        {
+          "item": "Business attire",
+          "quantity": "4 outfits",
+          "description": "Blazer/jacket with slacks/skirt for meetings",
+          "priority": "essential"
+        },
+        {
+          "item": "Dress shoes",
+          "quantity": "1 pair",
+          "description": "Closed-toe shoes suitable for meetings",
+          "priority": "recommended"
+        }
+      ],
+      "toiletries": [
+        {
+          "item": "Toothbrush & toothpaste",
+          "quantity": "1 set",
+          "description": "Daily dental hygiene",
+          "priority": "essential"
+        },
+        {
+          "item": "Deodorant",
+          "quantity": "1",
+          "description": "Personal hygiene",
+          "priority": "essential"
+        },
+        {
+          "item": "Sunscreen SPF 30+",
+          "quantity": "1 bottle",
+          "description": "UV protection during outdoor activities",
+          "priority": "essential"
+        },
+        {
+          "item": "Shampoo/Conditioner (travel size)",
+          "quantity": "1 set",
+          "description": "Hair care in carry-on-friendly sizes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Basic makeup & skincare",
+          "quantity": "As needed",
+          "description": "Daily routine essentials",
+          "priority": "optional"
+        },
+        {
+          "item": "After-sun lotion",
+          "quantity": "1 small",
+          "description": "Soothe sun-exposed skin",
+          "priority": "optional"
+        }
+      ],
+      "electronics": [
+        {
+          "item": "Phone + charger",
+          "quantity": "1",
+          "description": "Connectivity and travel apps",
+          "priority": "essential"
+        },
+        {
+          "item": "Portable power bank",
+          "quantity": "1",
+          "description": "Backup power for long days",
+          "priority": "recommended"
+        },
+        {
+          "item": "Universal travel adapter",
+          "quantity": "1",
+          "description": "Plug and voltage compatibility in many regions",
+          "priority": "essential"
+        },
+        {
+          "item": "Laptop + charger",
+          "quantity": "1",
+          "description": "Work and presentations",
+          "priority": "essential"
+        },
+        {
+          "item": "Presentation clicker/HDMI adaptor",
+          "quantity": "1",
+          "description": "Smooth meeting setups",
+          "priority": "recommended"
+        }
+      ],
+      "documents": [
+        {
+          "item": "Passport/ID",
+          "quantity": "1",
+          "description": "Primary identification for travel",
+          "priority": "essential"
+        },
+        {
+          "item": "Travel insurance",
+          "quantity": "1 policy",
+          "description": "Coverage for emergencies and disruptions",
+          "priority": "essential"
+        },
+        {
+          "item": "Itineraries & reservations",
+          "quantity": "1 set",
+          "description": "Flight, hotel, and booking confirmations",
+          "priority": "essential"
+        },
+        {
+          "item": "Payment methods",
+          "quantity": "Cards + some cash",
+          "description": "Local currency and backup card",
+          "priority": "essential"
+        }
+      ],
+      "health_safety": [
+        {
+          "item": "Personal medications",
+          "quantity": "Sufficient for trip",
+          "description": "Bring prescriptions and a few spare days",
+          "priority": "essential"
+        },
+        {
+          "item": "Mini first aid kit",
+          "quantity": "1 small kit",
+          "description": "Plasters, pain reliever, antiseptic wipes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Hand sanitizer",
+          "quantity": "1 small bottle",
+          "description": "Hygiene when soap/water unavailable",
+          "priority": "recommended"
+        }
+      ],
+      "activity_specific": [
+        {
+          "item": "Hiking boots/shoes",
+          "quantity": "1 pair",
+          "description": "Trail-appropriate footwear with grip",
+          "priority": "essential"
+        },
+        {
+          "item": "Moisture-wicking socks",
+          "quantity": "2-3 pairs",
+          "description": "Reduce blisters on trails",
+          "priority": "recommended"
+        },
+        {
+          "item": "Trekking poles",
+          "quantity": "1 pair",
+          "description": "Stability on uneven terrain",
+          "priority": "optional"
+        },
+        {
+          "item": "Trail snacks",
+          "quantity": "2-3 packs",
+          "description": "Energy for longer hikes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Rain jacket",
+          "quantity": "1",
+          "description": "Weather protection in the mountains",
+          "priority": "recommended"
+        },
+        {
+          "item": "Business cards",
+          "quantity": "10-20",
+          "description": "Networking at meetings/events",
+          "priority": "optional"
+        },
+        {
+          "item": "Collapsible garment bag",
+          "quantity": "1",
+          "description": "Keep suits/dresses wrinkle-free",
+          "priority": "optional"
+        }
+      ],
+      "miscellaneous": [
+        {
+          "item": "Reusable water bottle",
+          "quantity": "1",
+          "description": "Stay hydrated while exploring",
+          "priority": "recommended"
+        },
+        {
+          "item": "Daypack",
+          "quantity": "1",
+          "description": "Carry essentials on day trips",
+          "priority": "recommended"
+        },
+        {
+          "item": "Travel pillow",
+          "quantity": "1",
+          "description": "Comfort on flights or long rides",
+          "priority": "optional"
+        },
+        {
+          "item": "Laundry detergent sheets",
+          "quantity": "2-3",
+          "description": "Quick sink washes on longer trips",
+          "priority": "optional"
+        }
+      ]
+    },
+    "packing_tips": [
+      "Roll clothes to save space and minimize wrinkles",
+      "Pack versatile layers that mix and match",
+      "Keep essentials and documents in your carry-on",
+      "Plan a laundry day to reduce how much you pack",
+      "Carry a reusable water bottle and refill often",
+      "Pack extra chargers and a backup presentation on a USB stick"
+    ],
+    "destination_notes": "Paris, France: 12-day business trip in summer. Quantities scaled by duration; activities and season adjusted.",
+    "destination_details": {
+      "overview": "Popular travel spot with local customs and diverse food.",
+      "best_time_to_visit": "Summer for festivals; shoulder seasons for fewer crowds.",
+      "weather_summary": "Warm; stay sun-safe.",
+      "cultural_tips": "Be polite and observe local etiquette; learn a few phrases.",
+      "local_transport": "Use public transit or rideshare where available.",
+      "currency": "Carry a card plus some local cash.",
+      "language": "Local language; basic phrases help.",
+      "power_plugs": "Carry a universal travel adapter.",
+      "safety_tips": "Stay aware of belongings; use hotel safe when possible."
+    },
+    "faqs": [
+      {
+        "question": "What is the best time to visit Paris, France?",
+        "answer": "Summer for festivals; shoulder seasons for fewer crowds."
+      },
+      {
+        "question": "What are the must-pack essentials for Paris, France?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to Paris, France?",
+        "answer": "Be polite and observe local etiquette; learn a few phrases."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in Paris, France?",
+        "answer": "Carry a card plus some local cash."
+      },
+      {
+        "question": "Is it safe to travel to Paris, France?",
+        "answer": "Stay aware of belongings; use hotel safe when possible."
+      }
+    ],
+    "destination_image": "https://images.pexels.com/photos/33658602/pexels-photo-33658602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "createdAt": "2025-08-28T17:48:49.570Z",
+    "updatedAt": "2025-08-28T17:48:49.570Z"
+  },
+  {
+    "id": "5",
+    "title": "sri lanka kandy - 4 Day Family Trip (Winter)",
+    "destination": "sri lanka kandy",
+    "days": "4",
+    "season": "winter",
+    "trip_type": "family",
+    "activities": "Hiking",
+    "packing_list": {
+      "clothing": [
+        {
+          "item": "Hiking boots",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Sturdy, waterproof hiking boots for trails."
+        },
+        {
+          "item": "Moisture-wicking socks",
+          "quantity": 4,
+          "priority": "high",
+          "description": "Prevent blisters during long hikes."
+        },
+        {
+          "item": "Hiking pants",
+          "quantity": 2,
+          "priority": "high",
+          "description": "Durable, quick-drying pants for hiking."
+        },
+        {
+          "item": "T-shirts",
+          "quantity": "3 pieces",
+          "priority": "essential",
+          "description": "Breathable tops for layering and casual wear"
+        },
+        {
+          "item": "Fleece jacket",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Warm layer for cooler evenings."
+        },
+        {
+          "item": "Waterproof jacket",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Protection from unexpected rain."
+        },
+        {
+          "item": "Underwear",
+          "quantity": "6",
+          "priority": "essential",
+          "description": "Fresh pair per day plus spares"
+        },
+        {
+          "item": "Light sweater",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Provides additional warmth during cooler periods."
+        },
+        {
+          "item": "Hat",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Sun protection during the day."
+        },
+        {
+          "item": "Socks",
+          "quantity": "6",
+          "description": "Daily pairs; add moisture-wicking for long walks",
+          "priority": "essential"
+        },
+        {
+          "item": "Long-sleeve shirts",
+          "quantity": "2 pieces",
+          "description": "Layering for cooler mornings/evenings",
+          "priority": "essential"
+        },
+        {
+          "item": "Pants",
+          "quantity": "2 pairs",
+          "description": "Versatile bottoms for day and evening",
+          "priority": "essential"
+        },
+        {
+          "item": "Sweater/Fleece",
+          "quantity": "2 piece",
+          "description": "Mid-layer for warmth",
+          "priority": "essential"
+        },
+        {
+          "item": "Jacket/Coat",
+          "quantity": "1 piece",
+          "description": "Insulated outer layer for cold weather",
+          "priority": "essential"
+        },
+        {
+          "item": "Comfortable walking shoes",
+          "quantity": "1 pair",
+          "description": "Broken-in shoes for long days on your feet",
+          "priority": "essential"
+        },
+        {
+          "item": "Thermal base layers",
+          "quantity": "2-3 sets",
+          "description": "Stay warm in cold climates",
+          "priority": "essential"
+        },
+        {
+          "item": "Warm hat and gloves",
+          "quantity": "1 set",
+          "description": "Prevent heat loss outdoors",
+          "priority": "essential"
+        }
+      ],
+      "toiletries": [
+        {
+          "item": "Sunscreen",
+          "quantity": 1,
+          "priority": "high",
+          "description": "High SPF sunscreen for sun protection."
+        },
+        {
+          "item": "Insect repellent",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Repellent for mosquitos and other insects."
+        },
+        {
+          "item": "Toothbrush & toothpaste",
+          "quantity": "1 set",
+          "priority": "essential",
+          "description": "Daily dental hygiene"
+        },
+        {
+          "item": "Soap/body wash",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Travel-sized soap or body wash."
+        },
+        {
+          "item": "Shampoo & conditioner",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Travel-sized shampoo and conditioner."
+        },
+        {
+          "item": "Deodorant",
+          "quantity": "1",
+          "description": "Personal hygiene",
+          "priority": "essential"
+        },
+        {
+          "item": "Sunscreen SPF 30+",
+          "quantity": "1 bottle",
+          "description": "UV protection during outdoor activities",
+          "priority": "recommended"
+        },
+        {
+          "item": "Shampoo/Conditioner (travel size)",
+          "quantity": "1 set",
+          "description": "Hair care in carry-on-friendly sizes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Basic makeup & skincare",
+          "quantity": "As needed",
+          "description": "Daily routine essentials",
+          "priority": "optional"
+        },
+        {
+          "item": "Lip balm & moisturizer",
+          "quantity": "1 each",
+          "description": "Protect against dry, cold air",
+          "priority": "recommended"
+        }
+      ],
+      "electronics": [
+        {
+          "item": "Phone",
+          "quantity": 1,
+          "priority": "high",
+          "description": "For communication and photography."
+        },
+        {
+          "item": "Portable charger",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Essential for staying connected."
+        },
+        {
+          "item": "Camera",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Capture memories of your trip."
+        },
+        {
+          "item": "Adapter",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Sri Lanka uses type D, G, M plugs."
+        },
+        {
+          "item": "Phone + charger",
+          "quantity": "1",
+          "description": "Connectivity and travel apps",
+          "priority": "essential"
+        },
+        {
+          "item": "Portable power bank",
+          "quantity": "1",
+          "description": "Backup power for long days",
+          "priority": "recommended"
+        },
+        {
+          "item": "Universal travel adapter",
+          "quantity": "1",
+          "description": "Plug and voltage compatibility in many regions",
+          "priority": "essential"
+        }
+      ],
+      "documents": [
+        {
+          "item": "Passport",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Essential travel document."
+        },
+        {
+          "item": "Visa (if required)",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Check visa requirements before travel."
+        },
+        {
+          "item": "Flight/hotel confirmations",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Proof of bookings."
+        },
+        {
+          "item": "Travel insurance details",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Important for emergencies."
+        },
+        {
+          "item": "Passport/ID",
+          "quantity": "1",
+          "description": "Primary identification for travel",
+          "priority": "essential"
+        },
+        {
+          "item": "Travel insurance",
+          "quantity": "1 policy",
+          "description": "Coverage for emergencies and disruptions",
+          "priority": "essential"
+        },
+        {
+          "item": "Itineraries & reservations",
+          "quantity": "1 set",
+          "description": "Flight, hotel, and booking confirmations",
+          "priority": "essential"
+        },
+        {
+          "item": "Payment methods",
+          "quantity": "Cards + some cash",
+          "description": "Local currency and backup card",
+          "priority": "essential"
+        }
+      ],
+      "health_safety": [
+        {
+          "item": "First-aid kit",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Include band-aids, antiseptic wipes, pain relievers."
+        },
+        {
+          "item": "Any necessary prescription medications",
+          "quantity": "as needed",
+          "priority": "high",
+          "description": "Ensure you have enough for your trip."
+        },
+        {
+          "item": "Motion sickness medication",
+          "quantity": "as needed",
+          "priority": "medium",
+          "description": "For those prone to motion sickness."
+        },
+        {
+          "item": "Personal medications",
+          "quantity": "Sufficient for trip",
+          "description": "Bring prescriptions and a few spare days",
+          "priority": "essential"
+        },
+        {
+          "item": "Mini first aid kit",
+          "quantity": "1 small kit",
+          "description": "Plasters, pain reliever, antiseptic wipes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Hand sanitizer",
+          "quantity": "1 small bottle",
+          "description": "Hygiene when soap/water unavailable",
+          "priority": "recommended"
+        }
+      ],
+      "activity_specific": [
+        {
+          "item": "Backpack",
+          "quantity": 1,
+          "priority": "high",
+          "description": "For carrying water, snacks, and essentials."
+        },
+        {
+          "item": "Hiking poles",
+          "quantity": 2,
+          "priority": "medium",
+          "description": "Provides stability and reduces strain on joints."
+        },
+        {
+          "item": "Water bottles",
+          "quantity": 2,
+          "priority": "high",
+          "description": "Stay hydrated during hikes."
+        },
+        {
+          "item": "Snacks",
+          "quantity": "as needed",
+          "priority": "high",
+          "description": "Energy bars, trail mix for hiking."
+        },
+        {
+          "item": "Hiking boots/shoes",
+          "quantity": "1 pair",
+          "description": "Trail-appropriate footwear with grip",
+          "priority": "essential"
+        },
+        {
+          "item": "Moisture-wicking socks",
+          "quantity": "2-3 pairs",
+          "description": "Reduce blisters on trails",
+          "priority": "recommended"
+        },
+        {
+          "item": "Trekking poles",
+          "quantity": "1 pair",
+          "description": "Stability on uneven terrain",
+          "priority": "optional"
+        },
+        {
+          "item": "Trail snacks",
+          "quantity": "2-3 packs",
+          "description": "Energy for longer hikes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Rain jacket",
+          "quantity": "1",
+          "description": "Weather protection in the mountains",
+          "priority": "essential"
+        }
+      ],
+      "miscellaneous": [
+        {
+          "item": "Reusable water bottle",
+          "quantity": "1",
+          "priority": "recommended",
+          "description": "Stay hydrated while exploring"
+        },
+        {
+          "item": "Small towel",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Quick-drying towel for hikes."
+        },
+        {
+          "item": "Dry bag",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Protect electronics from rain."
+        },
+        {
+          "item": "Sarong",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Respectful attire for temples."
+        },
+        {
+          "item": "Daypack",
+          "quantity": "1",
+          "description": "Carry essentials on day trips",
+          "priority": "recommended"
+        },
+        {
+          "item": "Travel pillow",
+          "quantity": "1",
+          "description": "Comfort on flights or long rides",
+          "priority": "optional"
+        },
+        {
+          "item": "Laundry detergent sheets",
+          "quantity": "2-3",
+          "description": "Quick sink washes on longer trips",
+          "priority": "optional"
+        }
+      ]
+    },
+    "packing_tips": [
+      "Pack light, you'll be doing a lot of hiking.",
+      "Use packing cubes to organize your belongings.",
+      "Layer your clothing for varying temperatures.",
+      "Always carry water and snacks while hiking.",
+      "Respect local customs and dress modestly when visiting religious sites.",
+      "Roll clothes to save space and minimize wrinkles",
+      "Pack versatile layers that mix and match",
+      "Keep essentials and documents in your carry-on"
+    ],
+    "destination_notes": "Enjoy the beautiful scenery and challenging hikes in Kandy!",
+    "destination_details": {
+      "overview": "Kandy is a city in central Sri Lanka, known for its cultural and historical significance.",
+      "best_time_to_visit": "October to March (winter season)",
+      "weather_summary": "Pleasant temperatures, occasional rain showers.",
+      "cultural_tips": "Dress modestly when visiting temples. Learn a few basic Sinhala phrases.",
+      "local_transport": "Taxis, tuk-tuks, and buses are readily available.",
+      "currency": "Sri Lankan Rupee (LKR)",
+      "language": "Sinhala and Tamil",
+      "power_plugs": "Type D, G, M",
+      "safety_tips": "Be aware of your surroundings and belongings, especially in crowded areas."
+    },
+    "faqs": [
+      {
+        "question": "What is the best time to visit sri lanka kandy?",
+        "answer": "October to March (winter season)"
+      },
+      {
+        "question": "What are the must-pack essentials for sri lanka kandy?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to sri lanka kandy?",
+        "answer": "Dress modestly when visiting temples. Learn a few basic Sinhala phrases."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in sri lanka kandy?",
+        "answer": "Sri Lankan Rupee (LKR)"
+      },
+      {
+        "question": "Is it safe to travel to sri lanka kandy?",
+        "answer": "Be aware of your surroundings and belongings, especially in crowded areas."
+      }
+    ],
+    "destination_image": "https://images.pexels.com/photos/12047518/pexels-photo-12047518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "createdAt": "2025-08-28T17:52:17.332Z",
+    "updatedAt": "2025-08-28T17:52:17.332Z"
+  },
+  {
+    "id": "6",
+    "title": "Australia - 4 Day Leisure Trip (Summer)",
+    "destination": "Australia",
+    "days": "4",
+    "season": "summer",
+    "trip_type": "leisure",
+    "activities": "Hiking",
+    "packing_list": {
+      "clothing": [
+        {
+          "item": "Lightweight shirts",
+          "quantity": 4,
+          "priority": "high",
+          "description": "Moisture-wicking, quick-drying shirts for hiking."
+        },
+        {
+          "item": "Hiking pants",
+          "quantity": 2,
+          "priority": "high",
+          "description": "Durable, comfortable pants suitable for hiking."
+        },
+        {
+          "item": "Shorts",
+          "quantity": "2 pairs",
+          "priority": "recommended",
+          "description": "For warm days and casual outings"
+        },
+        {
+          "item": "Hiking socks",
+          "quantity": 6,
+          "priority": "high",
+          "description": "Moisture-wicking socks to prevent blisters."
+        },
+        {
+          "item": "Underwear",
+          "quantity": "6",
+          "priority": "essential",
+          "description": "Fresh pair per day plus spares"
+        },
+        {
+          "item": "Swimsuit",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "For relaxing after hikes."
+        },
+        {
+          "item": "Hat",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Wide-brimmed hat for sun protection."
+        },
+        {
+          "item": "Light jacket",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "For cooler evenings."
+        },
+        {
+          "item": "Rain jacket",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Lightweight, waterproof jacket."
+        },
+        {
+          "item": "Socks",
+          "quantity": "6",
+          "description": "Daily pairs; add moisture-wicking for long walks",
+          "priority": "essential"
+        },
+        {
+          "item": "T-shirts",
+          "quantity": "5 pieces",
+          "description": "Breathable tops for layering and casual wear",
+          "priority": "essential"
+        },
+        {
+          "item": "Long-sleeve shirts",
+          "quantity": "2 pieces",
+          "description": "Layering for cooler mornings/evenings",
+          "priority": "recommended"
+        },
+        {
+          "item": "Pants",
+          "quantity": "2 pairs",
+          "description": "Versatile bottoms for day and evening",
+          "priority": "essential"
+        },
+        {
+          "item": "Comfortable walking shoes",
+          "quantity": "1 pair",
+          "description": "Broken-in shoes for long days on your feet",
+          "priority": "essential"
+        },
+        {
+          "item": "Hat/Cap",
+          "quantity": "1",
+          "description": "Sun protection for outdoor time",
+          "priority": "recommended"
+        }
+      ],
+      "toiletries": [
+        {
+          "item": "Sunscreen",
+          "quantity": 1,
+          "priority": "high",
+          "description": "High SPF sunscreen for sun protection."
+        },
+        {
+          "item": "Insect repellent",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Repellent for mosquitoes and other insects."
+        },
+        {
+          "item": "Toothbrush and toothpaste",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Essential for oral hygiene."
+        },
+        {
+          "item": "Shampoo and conditioner",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Travel-sized bottles."
+        },
+        {
+          "item": "Soap",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Travel-sized bar soap."
+        },
+        {
+          "item": "Toothbrush & toothpaste",
+          "quantity": "1 set",
+          "description": "Daily dental hygiene",
+          "priority": "essential"
+        },
+        {
+          "item": "Deodorant",
+          "quantity": "1",
+          "description": "Personal hygiene",
+          "priority": "essential"
+        },
+        {
+          "item": "Sunscreen SPF 30+",
+          "quantity": "1 bottle",
+          "description": "UV protection during outdoor activities",
+          "priority": "essential"
+        },
+        {
+          "item": "Shampoo/Conditioner (travel size)",
+          "quantity": "1 set",
+          "description": "Hair care in carry-on-friendly sizes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Basic makeup & skincare",
+          "quantity": "As needed",
+          "description": "Daily routine essentials",
+          "priority": "optional"
+        },
+        {
+          "item": "After-sun lotion",
+          "quantity": "1 small",
+          "description": "Soothe sun-exposed skin",
+          "priority": "optional"
+        }
+      ],
+      "electronics": [
+        {
+          "item": "Phone",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Smartphone for communication and navigation."
+        },
+        {
+          "item": "Portable charger",
+          "quantity": 1,
+          "priority": "high",
+          "description": "External battery pack for charging devices."
+        },
+        {
+          "item": "Headlamp or flashlight",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "For navigating in low-light conditions."
+        },
+        {
+          "item": "Camera",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "To capture memories of your trip."
+        },
+        {
+          "item": "Adapter",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Australia uses Type I power plugs."
+        },
+        {
+          "item": "Phone + charger",
+          "quantity": "1",
+          "description": "Connectivity and travel apps",
+          "priority": "essential"
+        },
+        {
+          "item": "Portable power bank",
+          "quantity": "1",
+          "description": "Backup power for long days",
+          "priority": "recommended"
+        },
+        {
+          "item": "Universal travel adapter",
+          "quantity": "1",
+          "description": "Plug and voltage compatibility in many regions",
+          "priority": "essential"
+        }
+      ],
+      "documents": [
+        {
+          "item": "Passport",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Valid passport with at least six months validity."
+        },
+        {
+          "item": "Visa (if required)",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Ensure you have the necessary visa."
+        },
+        {
+          "item": "Flight/hotel confirmations",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Printed or digital copies."
+        },
+        {
+          "item": "Travel insurance details",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Policy number and contact information."
+        },
+        {
+          "item": "Passport/ID",
+          "quantity": "1",
+          "description": "Primary identification for travel",
+          "priority": "essential"
+        },
+        {
+          "item": "Travel insurance",
+          "quantity": "1 policy",
+          "description": "Coverage for emergencies and disruptions",
+          "priority": "essential"
+        },
+        {
+          "item": "Itineraries & reservations",
+          "quantity": "1 set",
+          "description": "Flight, hotel, and booking confirmations",
+          "priority": "essential"
+        },
+        {
+          "item": "Payment methods",
+          "quantity": "Cards + some cash",
+          "description": "Local currency and backup card",
+          "priority": "essential"
+        }
+      ],
+      "health_safety": [
+        {
+          "item": "First-aid kit",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Include bandages, antiseptic wipes, pain relievers."
+        },
+        {
+          "item": "Personal medications",
+          "quantity": "Sufficient for trip",
+          "priority": "essential",
+          "description": "Bring prescriptions and a few spare days"
+        },
+        {
+          "item": "Sunscreen",
+          "quantity": 1,
+          "priority": "high",
+          "description": "High SPF sunscreen for sun protection."
+        },
+        {
+          "item": "Mini first aid kit",
+          "quantity": "1 small kit",
+          "description": "Plasters, pain reliever, antiseptic wipes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Hand sanitizer",
+          "quantity": "1 small bottle",
+          "description": "Hygiene when soap/water unavailable",
+          "priority": "recommended"
+        }
+      ],
+      "activity_specific": [
+        {
+          "item": "Hiking boots",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Comfortable, well-broken-in hiking boots."
+        },
+        {
+          "item": "Backpack",
+          "quantity": 1,
+          "priority": "high",
+          "description": "A backpack to carry essentials during hikes."
+        },
+        {
+          "item": "Hiking poles",
+          "quantity": 2,
+          "priority": "medium",
+          "description": "For extra stability and support while hiking."
+        },
+        {
+          "item": "Water bottle",
+          "quantity": 1,
+          "priority": "high",
+          "description": "Reusable water bottle to stay hydrated."
+        },
+        {
+          "item": "Map and compass/GPS",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "For navigation during hikes."
+        },
+        {
+          "item": "Hiking boots/shoes",
+          "quantity": "1 pair",
+          "description": "Trail-appropriate footwear with grip",
+          "priority": "essential"
+        },
+        {
+          "item": "Moisture-wicking socks",
+          "quantity": "2-3 pairs",
+          "description": "Reduce blisters on trails",
+          "priority": "recommended"
+        },
+        {
+          "item": "Trekking poles",
+          "quantity": "1 pair",
+          "description": "Stability on uneven terrain",
+          "priority": "optional"
+        },
+        {
+          "item": "Trail snacks",
+          "quantity": "2-3 packs",
+          "description": "Energy for longer hikes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Rain jacket",
+          "quantity": "1",
+          "description": "Weather protection in the mountains",
+          "priority": "recommended"
+        }
+      ],
+      "miscellaneous": [
+        {
+          "item": "Reusable shopping bag",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "Eco-friendly option for shopping."
+        },
+        {
+          "item": "Small padlock",
+          "quantity": 1,
+          "priority": "medium",
+          "description": "For securing luggage."
+        },
+        {
+          "item": "Travel journal",
+          "quantity": 1,
+          "priority": "low",
+          "description": "Optional for documenting your trip."
+        },
+        {
+          "item": "Reusable water bottle",
+          "quantity": "1",
+          "description": "Stay hydrated while exploring",
+          "priority": "recommended"
+        },
+        {
+          "item": "Daypack",
+          "quantity": "1",
+          "description": "Carry essentials on day trips",
+          "priority": "recommended"
+        },
+        {
+          "item": "Travel pillow",
+          "quantity": "1",
+          "description": "Comfort on flights or long rides",
+          "priority": "optional"
+        },
+        {
+          "item": "Laundry detergent sheets",
+          "quantity": "2-3",
+          "description": "Quick sink washes on longer trips",
+          "priority": "optional"
+        }
+      ]
+    },
+    "packing_tips": [
+      "Roll your clothes instead of folding to save space.",
+      "Pack versatile clothing items that can be mixed and matched.",
+      "Use packing cubes to organize your belongings.",
+      "Leave some space in your luggage for souvenirs.",
+      "Roll clothes to save space and minimize wrinkles",
+      "Pack versatile layers that mix and match",
+      "Keep essentials and documents in your carry-on",
+      "Carry a reusable water bottle and refill often"
+    ],
+    "destination_notes": "Remember to pack light, comfortable clothing suitable for warm weather and hiking activities.",
+    "destination_details": {
+      "overview": "Australia offers diverse landscapes, perfect for hiking.",
+      "best_time_to_visit": "Summer (December-February) for warm weather.",
+      "weather_summary": "Hot and sunny days, warm evenings. Possible rain showers.",
+      "cultural_tips": "Respect local customs and wildlife.",
+      "local_transport": "Public transportation and rental cars are available.",
+      "currency": "Australian Dollar (AUD)",
+      "language": "English",
+      "power_plugs": "Type I",
+      "safety_tips": "Stay hydrated, be aware of wildlife, use sunscreen"
+    },
+    "faqs": [
+      {
+        "question": "What is the best time to visit Australia?",
+        "answer": "Summer (December-February) for warm weather."
+      },
+      {
+        "question": "What are the must-pack essentials for Australia?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to Australia?",
+        "answer": "Respect local customs and wildlife."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in Australia?",
+        "answer": "Australian Dollar (AUD)"
+      },
+      {
+        "question": "Is it safe to travel to Australia?",
+        "answer": "Stay hydrated, be aware of wildlife, use sunscreen"
+      }
+    ],
+    "destination_image": "https://images.pexels.com/photos/33662328/pexels-photo-33662328.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "createdAt": "2025-08-31T04:09:40.569Z",
+    "updatedAt": "2025-08-31T04:09:40.569Z"
+  },
+  {
+    "id": "7",
+    "title": "sri lanka - 2 Day Leisure Trip (Summer)",
+    "destination": "sri lanka",
+    "days": "2",
+    "season": "summer",
+    "trip_type": "leisure",
+    "activities": "Camping",
+    "packing_list": {
+      "clothing": [
+        {
+          "item": "Lightweight shirts",
+          "quantity": 3,
+          "description": "Cotton or linen shirts for hot weather.",
+          "priority": "high"
+        },
+        {
+          "item": "Shorts",
+          "quantity": "1 pairs",
+          "description": "For warm days and casual outings",
+          "priority": "recommended"
+        },
+        {
+          "item": "Hiking pants",
+          "quantity": 1,
+          "description": "Durable pants for trekking.",
+          "priority": "high"
+        },
+        {
+          "item": "Swimsuit",
+          "quantity": 1,
+          "description": "For swimming in rivers or the ocean.",
+          "priority": "medium"
+        },
+        {
+          "item": "Underwear",
+          "quantity": "4",
+          "description": "Fresh pair per day plus spares",
+          "priority": "essential"
+        },
+        {
+          "item": "Socks",
+          "quantity": "4",
+          "description": "Daily pairs; add moisture-wicking for long walks",
+          "priority": "essential"
+        },
+        {
+          "item": "Light jacket",
+          "quantity": 1,
+          "description": "For cooler evenings.",
+          "priority": "medium"
+        },
+        {
+          "item": "Hat",
+          "quantity": 1,
+          "description": "Protection from the sun.",
+          "priority": "high"
+        },
+        {
+          "item": "T-shirts",
+          "quantity": "3 pieces",
+          "description": "Breathable tops for layering and casual wear",
+          "priority": "essential"
+        },
+        {
+          "item": "Long-sleeve shirts",
+          "quantity": "1 pieces",
+          "description": "Layering for cooler mornings/evenings",
+          "priority": "recommended"
+        },
+        {
+          "item": "Pants",
+          "quantity": "1 pairs",
+          "description": "Versatile bottoms for day and evening",
+          "priority": "essential"
+        },
+        {
+          "item": "Comfortable walking shoes",
+          "quantity": "1 pair",
+          "description": "Broken-in shoes for long days on your feet",
+          "priority": "essential"
+        },
+        {
+          "item": "Hat/Cap",
+          "quantity": "1",
+          "description": "Sun protection for outdoor time",
+          "priority": "recommended"
+        }
+      ],
+      "toiletries": [
+        {
+          "item": "Sunscreen",
+          "quantity": 1,
+          "description": "High SPF sunscreen.",
+          "priority": "high"
+        },
+        {
+          "item": "Insect repellent",
+          "quantity": 1,
+          "description": "Mosquito repellent.",
+          "priority": "high"
+        },
+        {
+          "item": "Toothbrush & toothpaste",
+          "quantity": "1 set",
+          "description": "Daily dental hygiene",
+          "priority": "essential"
+        },
+        {
+          "item": "Deodorant",
+          "quantity": "1",
+          "description": "Personal hygiene",
+          "priority": "essential"
+        },
+        {
+          "item": "Soap/body wash",
+          "quantity": 1,
+          "description": "Travel-sized.",
+          "priority": "medium"
+        },
+        {
+          "item": "Toilet paper",
+          "quantity": 1,
+          "description": "Small roll for emergencies.",
+          "priority": "medium"
+        },
+        {
+          "item": "Sunscreen SPF 30+",
+          "quantity": "1 bottle",
+          "description": "UV protection during outdoor activities",
+          "priority": "essential"
+        },
+        {
+          "item": "Shampoo/Conditioner (travel size)",
+          "quantity": "1 set",
+          "description": "Hair care in carry-on-friendly sizes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Basic makeup & skincare",
+          "quantity": "As needed",
+          "description": "Daily routine essentials",
+          "priority": "optional"
+        },
+        {
+          "item": "After-sun lotion",
+          "quantity": "1 small",
+          "description": "Soothe sun-exposed skin",
+          "priority": "optional"
+        }
+      ],
+      "electronics": [
+        {
+          "item": "Phone",
+          "quantity": 1,
+          "description": "With charger and portable power bank.",
+          "priority": "high"
+        },
+        {
+          "item": "Camera",
+          "quantity": 1,
+          "description": "To capture memories.",
+          "priority": "medium"
+        },
+        {
+          "item": "Headlamp",
+          "quantity": 1,
+          "description": "For nighttime visibility.",
+          "priority": "high"
+        },
+        {
+          "item": "Universal adapter",
+          "quantity": 1,
+          "description": "For Sri Lankan plugs.",
+          "priority": "high"
+        },
+        {
+          "item": "Phone + charger",
+          "quantity": "1",
+          "description": "Connectivity and travel apps",
+          "priority": "essential"
+        },
+        {
+          "item": "Portable power bank",
+          "quantity": "1",
+          "description": "Backup power for long days",
+          "priority": "recommended"
+        },
+        {
+          "item": "Universal travel adapter",
+          "quantity": "1",
+          "description": "Plug and voltage compatibility in many regions",
+          "priority": "essential"
+        }
+      ],
+      "documents": [
+        {
+          "item": "Passport",
+          "quantity": 1,
+          "description": "Valid passport.",
+          "priority": "high"
+        },
+        {
+          "item": "Visa (if required)",
+          "quantity": 1,
+          "description": "Check visa requirements.",
+          "priority": "high"
+        },
+        {
+          "item": "Flight/hotel confirmations",
+          "quantity": 1,
+          "description": "Printed or digital copies.",
+          "priority": "high"
+        },
+        {
+          "item": "Travel insurance details",
+          "quantity": 1,
+          "description": "Policy number and contact information.",
+          "priority": "high"
+        },
+        {
+          "item": "Passport/ID",
+          "quantity": "1",
+          "description": "Primary identification for travel",
+          "priority": "essential"
+        },
+        {
+          "item": "Travel insurance",
+          "quantity": "1 policy",
+          "description": "Coverage for emergencies and disruptions",
+          "priority": "essential"
+        },
+        {
+          "item": "Itineraries & reservations",
+          "quantity": "1 set",
+          "description": "Flight, hotel, and booking confirmations",
+          "priority": "essential"
+        },
+        {
+          "item": "Payment methods",
+          "quantity": "Cards + some cash",
+          "description": "Local currency and backup card",
+          "priority": "essential"
+        }
+      ],
+      "health_safety": [
+        {
+          "item": "First-aid kit",
+          "quantity": 1,
+          "description": "Band-aids, antiseptic wipes, pain relievers.",
+          "priority": "high"
+        },
+        {
+          "item": "Any necessary prescription medication",
+          "quantity": 1,
+          "description": "With prescription details.",
+          "priority": "high"
+        },
+        {
+          "item": "Personal medications",
+          "quantity": "Sufficient for trip",
+          "description": "Bring prescriptions and a few spare days",
+          "priority": "essential"
+        },
+        {
+          "item": "Mini first aid kit",
+          "quantity": "1 small kit",
+          "description": "Plasters, pain reliever, antiseptic wipes",
+          "priority": "recommended"
+        },
+        {
+          "item": "Hand sanitizer",
+          "quantity": "1 small bottle",
+          "description": "Hygiene when soap/water unavailable",
+          "priority": "recommended"
+        }
+      ],
+      "activity_specific": [
+        {
+          "item": "Backpack",
+          "quantity": 1,
+          "description": "Large enough to carry all your gear.",
+          "priority": "high"
+        },
+        {
+          "item": "Hiking boots",
+          "quantity": 1,
+          "description": "Comfortable and waterproof.",
+          "priority": "high"
+        },
+        {
+          "item": "Camping tent",
+          "quantity": 1,
+          "description": "Suitable for two people.",
+          "priority": "high"
+        },
+        {
+          "item": "Sleeping bag",
+          "quantity": 1,
+          "description": "Lightweight and suitable for warm weather.",
+          "priority": "high"
+        },
+        {
+          "item": "Camping stove & fuel",
+          "quantity": 1,
+          "description": "For cooking meals.",
+          "priority": "high"
+        },
+        {
+          "item": "Water bottles",
+          "quantity": 2,
+          "description": "To stay hydrated.",
+          "priority": "high"
+        },
+        {
+          "item": "Water filter/purifier",
+          "quantity": 1,
+          "description": "Essential for safe drinking water.",
+          "priority": "high"
+        },
+        {
+          "item": "Headlamp or flashlight",
+          "quantity": 1,
+          "description": "For navigating in the dark.",
+          "priority": "high"
+        },
+        {
+          "item": "Map and compass",
+          "quantity": 1,
+          "description": "Helpful for navigation.",
+          "priority": "medium"
+        },
+        {
+          "item": "Knife or multi-tool",
+          "quantity": 1,
+          "description": "For various purposes.",
+          "priority": "medium"
+        },
+        {
+          "item": "Matches or lighter",
+          "quantity": 1,
+          "description": "For starting a campfire.",
+          "priority": "medium"
+        },
+        {
+          "item": "First-aid kit",
+          "quantity": 1,
+          "description": "Essential for minor injuries.",
+          "priority": "high"
+        }
+      ],
+      "miscellaneous": [
+        {
+          "item": "Reusable water bottle",
+          "quantity": "1",
+          "description": "Stay hydrated while exploring",
+          "priority": "recommended"
+        },
+        {
+          "item": "Small towel",
+          "quantity": 1,
+          "description": "Quick-drying microfibre towel.",
+          "priority": "medium"
+        },
+        {
+          "item": "Dry bag",
+          "quantity": 1,
+          "description": "To protect electronics from rain.",
+          "priority": "medium"
+        },
+        {
+          "item": "Book or e-reader",
+          "quantity": 1,
+          "description": "For downtime.",
+          "priority": "low"
+        },
+        {
+          "item": "Daypack",
+          "quantity": "1",
+          "description": "Carry essentials on day trips",
+          "priority": "recommended"
+        },
+        {
+          "item": "Travel pillow",
+          "quantity": "1",
+          "description": "Comfort on flights or long rides",
+          "priority": "optional"
+        },
+        {
+          "item": "Laundry detergent sheets",
+          "quantity": "2-3",
+          "description": "Quick sink washes on longer trips",
+          "priority": "optional"
+        }
+      ]
+    },
+    "packing_tips": [
+      "Roll your clothes instead of folding to save space.",
+      "Use packing cubes to organize your belongings.",
+      "Pack versatile clothing items that can be mixed and matched.",
+      "Leave extra space in your bag for souvenirs.",
+      "Roll clothes to save space and minimize wrinkles",
+      "Pack versatile layers that mix and match",
+      "Keep essentials and documents in your carry-on",
+      "Carry a reusable water bottle and refill often"
+    ],
+    "destination_notes": "Remember to respect local customs and traditions.",
+    "destination_details": {
+      "overview": "Sri Lanka offers stunning beaches, ancient cities, and lush rainforests.",
+      "best_time_to_visit": "December to March (dry season)",
+      "weather_summary": "Hot and humid, especially during summer.",
+      "cultural_tips": "Dress modestly when visiting religious sites.",
+      "local_transport": "Tuk-tuks, buses, and trains are readily available.",
+      "currency": "Sri Lankan Rupee (LKR)",
+      "language": "Sinhala and Tamil",
+      "power_plugs": "Type D, G",
+      "safety_tips": "Be aware of your surroundings and avoid walking alone at night."
+    },
+    "faqs": [
+      {
+        "question": "What is the best time to visit sri lanka?",
+        "answer": "December to March (dry season)"
+      },
+      {
+        "question": "What are the must-pack essentials for sri lanka?",
+        "answer": "Essentials include passport, weather-appropriate clothing, chargers, and any destination-specific items."
+      },
+      {
+        "question": "Are there any cultural tips for travelers to sri lanka?",
+        "answer": "Dress modestly when visiting religious sites."
+      },
+      {
+        "question": "What is the local currency and how should I handle money in sri lanka?",
+        "answer": "Sri Lankan Rupee (LKR)"
+      },
+      {
+        "question": "Is it safe to travel to sri lanka?",
+        "answer": "Be aware of your surroundings and avoid walking alone at night."
+      }
+    ],
+    "destination_image": "https://images.pexels.com/photos/595196/pexels-photo-595196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+    "createdAt": "2025-08-31T08:25:52.115Z",
+    "updatedAt": "2025-08-31T08:25:52.115Z"
+  }
+]

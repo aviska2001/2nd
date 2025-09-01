@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saved Packing Lists Collection</title>
+    <meta name="description" content="Browse all saved travel packing lists and checklists">
+    <style>
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; 
+            line-height: 1.6; 
+            color: #333; 
+            max-width: 1200px; 
+            margin: 0 auto; 
+            padding: 20px;
+            background: linear-gradient(135deg, #e8f5e8 0%, #c3e8f7 100%);
+        }
+        .header { 
+            text-align: center; 
+            margin-bottom: 40px; 
+            background: white; 
+            padding: 30px; 
+            border-radius: 15px; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        .packing-lists-grid { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr)); 
+            gap: 20px;
+        }
+        .packing-list-card { 
+            background: white; 
+            border-radius: 15px; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1); 
+            overflow: hidden; 
+            transition: transform 0.3s ease;
+        }
+        .packing-list-card:hover { 
+            transform: translateY(-5px);
+        }
+        .card-image { 
+            width: 100%; 
+            height: 200px; 
+            object-fit: cover;
+        }
+        .card-content { 
+            padding: 20px;
+        }
+        .card-title { 
+            font-size: 1.3em; 
+            font-weight: bold; 
+            color: #2c3e50; 
+            margin-bottom: 10px;
+        }
+        .card-details { 
+            color: #7f8c8d; 
+            margin-bottom: 15px;
+        }
+        .card-link { 
+            display: inline-block; 
+            background: #27ae60; 
+            color: white; 
+            padding: 10px 20px; 
+            border-radius: 5px; 
+            text-decoration: none; 
+            transition: background 0.3s ease;
+        }
+        .card-link:hover { 
+            background: #219a52;
+        }
+        .card-stats { 
+            display: flex; 
+            gap: 15px; 
+            margin-bottom: 15px;
+        }
+        .stat { 
+            background: #f8f9fa; 
+            padding: 8px 12px; 
+            border-radius: 5px; 
+            text-align: center;
+        }
+        .stat-number { 
+            font-weight: bold; 
+            color: #2c3e50;
+        }
+        .stat-label { 
+            font-size: 0.8em; 
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🎒 Saved Packing Lists Collection</h1>
+        <p>Browse all your saved travel packing lists and checklists</p>
+    </div>
+
+    <div class="packing-lists-grid">
+        
+            <div class="packing-list-card">
+                
+                    <img src="https://images.pexels.com/photos/33636731/pexels-photo-33636731.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="japan" class="card-image">
+                
+                <div class="card-content">
+                    <h3 class="card-title">japan - 20 Day Leisure Trip (Summer)</h3>
+                    <p class="card-details">
+                        ☀️ Summer • 
+                        🏖️ Leisure<br>
+                        📅 20 days • 
+                        🌍 japan
+                    </p>
+                    <div class="card-stats">
+                        <div class="stat">
+                            <div class="stat-number">69</div>
+                            <div class="stat-label">Items</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number">16</div>
+                            <div class="stat-label">Essential</div>
+                        </div>
+                    </div>
+                    <a href="./saved-packing-list/1/" class="card-link">View Packing List →</a>
+                </div>
+            </div>
+            
+            <div class="packing-list-card">
+                
+                    <img src="https://images.pexels.com/photos/595196/pexels-photo-595196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="sri lanka" class="card-image">
+                
+                <div class="card-content">
+                    <h3 class="card-title">sri lanka - 2 Day Leisure Trip (Summer)</h3>
+                    <p class="card-details">
+                        ☀️ Summer • 
+                        🏖️ Leisure<br>
+                        📅 2 days • 
+                        🌍 sri lanka
+                    </p>
+                    <div class="card-stats">
+                        <div class="stat">
+                            <div class="stat-number">64</div>
+                            <div class="stat-label">Items</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number">15</div>
+                            <div class="stat-label">Essential</div>
+                        </div>
+                    </div>
+                    <a href="./saved-packing-list/2/" class="card-link">View Packing List →</a>
+                </div>
+            </div>
+            
+            <div class="packing-list-card">
+                
+                    <img src="https://images.pexels.com/photos/12047518/pexels-photo-12047518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="sri lanka kandy" class="card-image">
+                
+                <div class="card-content">
+                    <h3 class="card-title">sri lanka kandy - 4 Day Leisure Trip (Summer)</h3>
+                    <p class="card-details">
+                        ☀️ Summer • 
+                        🏖️ Leisure<br>
+                        📅 4 days • 
+                        🌍 sri lanka kandy
+                    </p>
+                    <div class="card-stats">
+                        <div class="stat">
+                            <div class="stat-number">61</div>
+                            <div class="stat-label">Items</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number">15</div>
+                            <div class="stat-label">Essential</div>
+                        </div>
+                    </div>
+                    <a href="./saved-packing-list/3/" class="card-link">View Packing List →</a>
+                </div>
+            </div>
+            
+            <div class="packing-list-card">
+                
+                    <img src="https://images.pexels.com/photos/33658602/pexels-photo-33658602.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Paris, France" class="card-image">
+                
+                <div class="card-content">
+                    <h3 class="card-title">Paris, France - 12 Day Business Trip (Summer)</h3>
+                    <p class="card-details">
+                        ☀️ Summer • 
+                        💼 Business<br>
+                        📅 12 days • 
+                        🌍 Paris, France
+                    </p>
+                    <div class="card-stats">
+                        <div class="stat">
+                            <div class="stat-number">39</div>
+                            <div class="stat-label">Items</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number">18</div>
+                            <div class="stat-label">Essential</div>
+                        </div>
+                    </div>
+                    <a href="./saved-packing-list/4/" class="card-link">View Packing List →</a>
+                </div>
+            </div>
+            
+            <div class="packing-list-card">
+                
+                    <img src="https://images.pexels.com/photos/12047518/pexels-photo-12047518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="sri lanka kandy" class="card-image">
+                
+                <div class="card-content">
+                    <h3 class="card-title">sri lanka kandy - 4 Day Family Trip (Winter)</h3>
+                    <p class="card-details">
+                        ❄️ Winter • 
+                        👨‍👩‍👧‍👦 Family<br>
+                        📅 4 days • 
+                        🌍 sri lanka kandy
+                    </p>
+                    <div class="card-stats">
+                        <div class="stat">
+                            <div class="stat-number">64</div>
+                            <div class="stat-label">Items</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number">21</div>
+                            <div class="stat-label">Essential</div>
+                        </div>
+                    </div>
+                    <a href="./saved-packing-list/5/" class="card-link">View Packing List →</a>
+                </div>
+            </div>
+            
+    </div>
+</body>
+</html>
