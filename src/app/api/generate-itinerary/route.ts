@@ -258,9 +258,22 @@ export async function POST(request: NextRequest) {
     let itineraryText: string;
 
     // Check if we have valid Gemini API key
-    const hasValidGeminiKey = process.env.GEMINI_API_KEY && process.env.GEMINI_API_KEY.trim() !== '' && process.env.GEMINI_API_KEY !== 'your_new_api_key_here';
+    const apiKey = process.env.GEMINI_API_KEY;
+    console.log('Environment check:', {
+      hasApiKey: !!apiKey,
+      keyLength: apiKey ? apiKey.length : 0,
+      keyStart: apiKey ? apiKey.substring(0, 10) : 'undefined',
+      nodeEnv: process.env.NODE_ENV
+    });
+    
+    const hasValidGeminiKey = apiKey && 
+                            apiKey.trim() !== '' && 
+                            apiKey !== 'your_new_api_key_here' && 
+                            apiKey !== 'your_gemini_api_key_here' &&
+                            apiKey.startsWith('AIza');
     
     if (!hasValidGeminiKey) {
+      console.error('Invalid Gemini API key:', { apiKey: apiKey ? `${apiKey.substring(0, 10)}...` : 'undefined' });
       return NextResponse.json(
         { error: 'Gemini API key not configured. Please add your Gemini API key to .env.local' },
         { status: 500 }
